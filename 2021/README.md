@@ -7,9 +7,9 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Day                                             | Part One | Part Two | Total Stars   |
 | ---------------------------------------------   | :------: | :------: | :-----------: |
-| [DAY 1](https://adventofcode.com/2021/day/1)    | :star:   | :star:   | :star::star: |
-| [DAY 2](https://adventofcode.com/2021/day/2)    | :star:   | :star:   | :star::star: |
-| [DAY 3](https://adventofcode.com/2021/day/3)    |  |  |  |
+| [DAY 1](https://adventofcode.com/2021/day/1)    | :star:   | :star:   | :star::star:  |
+| [DAY 2](https://adventofcode.com/2021/day/2)    | :star:   | :star:   | :star::star:  |
+| [DAY 3](https://adventofcode.com/2021/day/3)    | :star:   |    | :star:  |
 | [DAY 4](https://adventofcode.com/2021/day/4)    |  |  |  |
 | [DAY 5](https://adventofcode.com/2021/day/5)    |  |  |  |
 | [DAY 6](https://adventofcode.com/2021/day/6)    |  |  |  |
