@@ -28,40 +28,16 @@ def partOne(data: list) -> int:
     
     return diagnostic['epsilon total'] * diagnostic['gamma total']
 
-def countOneZero(data: list, position) -> tuple:
-    diagnostic: dict = {
-        'zeroes': [],
-        'ones': [],
-        'generator': [],
-        'scrubber': [],
-    }
-    if len(data) == 1:
-        return data, data
-    [diagnostic['zeroes'].append(line) if int(line[position]) == 0 else diagnostic['ones'].append(line) for line in data]
-    if diagnostic['zeroes'] > diagnostic['ones']:
-        for x in data:
-            if int(x[position]) == 0:
-                diagnostic['generator'].append(x)
-            else: diagnostic['scrubber'].append(x)
+def countOneZero(data: list, position: int) -> tuple:
+    zero = [line for line in data if line[position] == '0']
+    one = [line for line in data if line[position] == '1']
+    if len(zero) == 0 or len(one) == 0:
+        if len(zero) == 0: return one, one
+        else: return zero, zero
+    if len(zero) > len(one):
+        return zero, one
     else:
-        for x in data:
-            if int(x[position]) == 1:
-                diagnostic['generator'].append(x)
-            else: diagnostic['scrubber'].append(x)
-    return diagnostic['generator'], diagnostic['scrubber']
-
-# def removeValues(data: list, high=True):
-#     diagnostic: dict = {
-#         'current': [],
-#         'previous': [],
-#         'zeroes': 0,
-#         'ones': 0,
-#     }
-#     for number in range(1, len(data[0])):
-#         [diagnostic['zeroes'] + 1 if int(line[number]) == 0 else diagnostic['ones'] + 1 for line in data]
-#         # print(diagnostic['zeroes'], diagnostic['ones'])
-#         for line in data:...
-
+        return one, zero
 
 def partTwo(data: list) -> int:
     generator: list = []
@@ -71,11 +47,16 @@ def partTwo(data: list) -> int:
     for x in range(1, len(data[0])):
         generator, _ = countOneZero(prevGenerator, x)
         prevGenerator = generator
+    # Then calculate scrubber
     for x in range(1, len(data[0])):
         _, scrubber = countOneZero(prevScrubber, x)
         prevScrubber = scrubber
-        print(prevScrubber)
-    print(prevGenerator, prevScrubber)
+    # Convert binary to decimal
+    deciGenerator, deciScrubber = 0, 0
+    for number in range(0, len(data[0])):
+        deciGenerator += int(generator[0][number]) * 2**(len(data[0]) - (number + 1))
+        deciScrubber += int(scrubber[0][number]) * 2**(len(data[0]) - (number + 1))
+    return deciGenerator * deciScrubber
 
 def main() -> None:
     data = getData(DATA)
