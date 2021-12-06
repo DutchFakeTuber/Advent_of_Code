@@ -1,25 +1,21 @@
-from Hydrothermal_Venture import DATA
+import numpy
 import sys
-
-def generateGrid(xAxis: int, yAxis: int) -> list:
-    return [[0 for _ in range(0, xAxis)] for _ in range(0, yAxis)]
+from Hydrothermal_Venture import DATA
 
 def getData(data: str) -> tuple:
     return [[[int(number) for number in coordinates.split(',')] for coordinates in line.split(' -> ')] for line in data.split('\n')]
-    '''
-    print(start[0]) # To get the pair of coordinates
-    print(start[0][0]) # To get one coordinates (this case the first)
-    print(start[0][0][0]) # To get a single number
-    '''
 
 def partOne(data: list, grid: list) -> int:
     for row in data:
-        if row[0][0] == row[1][0]:
-            for number in range(abs(row[0][0] - row[1][0])):
-                grid[row[0][1]][number] += 1
-        else:
-            for number in range(abs(row[0][0] - row[1][0])):
-                grid[row[0][1]][number] += 1
+        xStart, yStart, xEnd, yEnd = row[0][0], row[0][1], row[1][0], row[1][1]
+        if yStart == yEnd:
+            if xStart > xEnd:
+                xStart, xEnd = xEnd, xStart
+            grid[xStart:xEnd + 1, yStart] += 1
+        elif xStart == xEnd:
+            if yStart > yEnd:
+                yStart, yEnd = yEnd, yStart
+            grid[xStart, yStart:yEnd + 1] += 1
     
     overlap: int = 0
     for line in grid:
@@ -28,10 +24,32 @@ def partOne(data: list, grid: list) -> int:
                 overlap += 1
     return overlap
 
+def partTwo(data: list, grid: list) -> int:
+    for row in data:
+        xStart, yStart, xEnd, yEnd = row[0][0], row[0][1], row[1][0], row[1][1]
+        if yStart == yEnd:
+            if xStart > xEnd:
+                xStart, xEnd = xEnd, xStart
+            grid[xStart:xEnd + 1, yStart] += 1
+        elif xStart == xEnd:
+            if yStart > yEnd:
+                yStart, yEnd = yEnd, yStart
+            grid[xStart, yStart:yEnd + 1] += 1
+        else:
+            if xStart > xEnd:
+                xStart, xEnd = xEnd, xStart
+            if yStart > yEnd:
+                yStart, yEnd = yEnd, yStart
+            print(f"xStart: {xStart}, xEnd: {xEnd}; yStart: {yStart}, yEnd: {yEnd}, length: {xEnd-xStart}, {yEnd-yStart}; range len: {len([x for x in range(0, (yEnd-yStart)+1)])}")
+            for Axis in range(0, yEnd - yStart):
+                grid[xStart+Axis,yStart+Axis] += 1
+
+    return numpy.count_nonzero(grid > 1)
+
 def main() -> None:
     data: list = getData(DATA)
-    grid: list = generateGrid(1000, 1000)
-    print(partOne(data, grid))
+    print(partOne(data, numpy.zeros((1000, 1000))))
+    print(partTwo(data, numpy.zeros((1000, 1000))))
 
 if __name__ == "__main__":
     main()
