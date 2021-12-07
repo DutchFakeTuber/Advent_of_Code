@@ -5,7 +5,7 @@ def getData(data: str) -> list:
 
 def partOne(data: list) -> int:
     diagnostic: dict = {
-        'zeroes': 0,
+        'zeros': 0,
         'ones': 0,
         'gamma total': 0,
         'epsilon total': 0,
@@ -14,17 +14,17 @@ def partOne(data: list) -> int:
     for number in range(0, len(data[0])):
         for line in data:
             if int(line[number]) == 0:
-                diagnostic['zeroes'] += 1
+                diagnostic['zeros'] += 1
             else: diagnostic['ones'] += 1
 
-        if diagnostic['zeroes'] > diagnostic['ones']:
+        if diagnostic['zeros'] > diagnostic['ones']:
             diagnostic['gamma total'] += 0 * 2**(len(data[0]) - (number + 1))
             diagnostic['epsilon total'] += 1 * 2**(len(data[0]) - (number + 1))
         else:
             diagnostic['gamma total'] += 1 * 2**(len(data[0]) - (number + 1))
             diagnostic['epsilon total'] += 0 * 2**(len(data[0]) - (number + 1))
         
-        diagnostic['zeroes'], diagnostic['ones'] = 0, 0
+        diagnostic['zeros'], diagnostic['ones'] = 0, 0
     
     return diagnostic['epsilon total'] * diagnostic['gamma total']
 
