@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 4/25           | 8/50            | :star::star::star::star::star::star::star::star: |
+| 5/25           | 11/50            | :star::star::star::star::star::star::star::star: |
 
 | Day                                             | Part One | Part Two | Total Stars   |
 | ---------------------------------------------   | :------: | :------: | :-----------: |
@@ -11,8 +11,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [DAY 2](https://adventofcode.com/2021/day/2)    | :star:   | :star:   | :star::star:  |
 | [DAY 3](https://adventofcode.com/2021/day/3)    | :star:   | :star:   | :star::star:  |
 | [DAY 4](https://adventofcode.com/2021/day/4)    | :star:   | :star:   | :star::star:  |
-| [DAY 5](https://adventofcode.com/2021/day/5)    |  |  |  |
-| [DAY 6](https://adventofcode.com/2021/day/6)    |  |  |  |
+| [DAY 5](https://adventofcode.com/2021/day/5)    | :star:   | :star:   | :star::star:  |
+| [DAY 6](https://adventofcode.com/2021/day/6)    | :star:   |  | :star: |
 | [DAY 7](https://adventofcode.com/2021/day/7)    |  |  |  |
 | [DAY 8](https://adventofcode.com/2021/day/8)    |  |  |  |
 | [DAY 9](https://adventofcode.com/2021/day/9)    |  |  |  |
