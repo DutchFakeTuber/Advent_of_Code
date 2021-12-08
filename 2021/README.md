@@ -14,7 +14,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 5 - Hydrothermal Venture][DAY_5]    | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6 - Lanternfish][DAY_6]             | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
 | [Day 7 - The Treachery of Whales][DAY_7] | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
-| [Day 8][DAY_8]                           | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
+| [Day 8 - Seven Segment Search][DAY_8]    | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   |    | :star:  |
 | [Day 9][DAY_9]                           | [][PUZZLE_9]  | [][SOLUTION_9]  |    |    |   |
 | [Day 10][DAY_10]                         | [][PUZZLE_10] | [][SOLUTION_10] |    |    |   |
 | [Day 11][DAY_11]                         | [][PUZZLE_11] | [][SOLUTION_11] |    |    |   |
