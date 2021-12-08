@@ -13,8 +13,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 4 - Giant Squid][DAY_4]             | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
 | [Day 5 - Hydrothermal Venture][DAY_5]    | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6 - Lanternfish][DAY_6]             | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
-| [Day 7 - The Treachery of Whales][DAY_7] | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
-| [Day 8][DAY_8]                           | [][PUZZLE_8]  | [][SOLUTION_8]  |    |    |   |
+| [Day 7 - The Treachery of Whales][DAY_7] | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
+| [Day 8][DAY_8]                           | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
 | [Day 9][DAY_9]                           | [][PUZZLE_9]  | [][SOLUTION_9]  |    |    |   |
 | [Day 10][DAY_10]                         | [][PUZZLE_10] | [][SOLUTION_10] |    |    |   |
 | [Day 11][DAY_11]                         | [][PUZZLE_11] | [][SOLUTION_11] |    |    |   |
@@ -68,7 +68,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 [SOLUTION_5]:  Day%205/Day%205%20-%20Hydrothermal%20Venture.py
 [SOLUTION_6]:  Day%206/Day%206%20-%20Lanternfish.py
 [SOLUTION_7]:  Day%207/Day%207%20-%20The%20Treachery%20of%20Whales.py
-[SOLUTION_8]:  Day%208/Day%208%20-%20
+[SOLUTION_8]:  Day%208/Day%208%20-%20Seven%20Segment%20Search.py
 [SOLUTION_9]:  Day%209/Day%209%20-%20
 [SOLUTION_10]: Day%2010/Day%2010%20-%20
 [SOLUTION_11]: Day%2011/Day%2011%20-%20
@@ -95,7 +95,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 [PUZZLE_5]:  Day%205/Hydrothermal_Venture.py
 [PUZZLE_6]:  Day%206/Lanternfish.py
 [PUZZLE_7]:  Day%207/The_Treachery_of_Whales.py
-[PUZZLE_8]:  Day%208/
+[PUZZLE_8]:  Day%208/Seven_Segment_Search.py
 [PUZZLE_9]:  Day%209/
 [PUZZLE_10]: Day%2010/
 [PUZZLE_11]: Day%2011/
