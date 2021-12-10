@@ -1,54 +1,53 @@
+from typing import Generator
+import math
 from Smoke_Basin import DATA
 
-def getData(data: str) -> list:
-    return [[int(number) for number in line] for line in data.split('\n')]
-    """
-    100 Rows
-    100 Columns
-    """
+class SmokeBasin:
+    def __init__(self, data: str) -> None:
+        self.data: list = [[int(number) for number in line] for line in data.split('\n')]
+    
+    def getCoords(self, row: int, column: int) -> Generator:
+        for conv_row, conv_col in zip([row, row, row-1, row+1], [column-1, column+1, column, column]):
+            try: yield self.data[conv_row][conv_col]
+            except: yield None
 
-def getCoords(data: list, row: int, column: int) -> tuple:
-    try: left: int = data[row][column - 1]
-    except: left: int = None
+    def partOne(self) -> int:
+        lowPoints: list = []
+        for row in range(len(self.data)):
+            for column, number in enumerate(self.data[row]):
+                left, right, up, down = self.getCoords(row, column)
+                if (column == 0 or number < left) \
+                        and (column == len(self.data[row])-1 or number < right) \
+                        and (row == 0 or number < up) \
+                        and (row == len(self.data)-1 or number < down):
+                    lowPoints.append(number)
 
-    try: right: int = data[row][column + 1]
-    except: right: int = None
+        return sum(lowPoints) + len(lowPoints)
 
-    try: up: int = data[row - 1][column]
-    except: up: int = None
+    def check(self, row: int, column: int) -> int:
+        count: int = 0
+        if not (0 <= row < len(self.data) and 0 <= column < len(self.data[row])) \
+                or self.data[row][column] == 9:
+            return 0
+        self.data[row][column] = 9
+        count += 1
 
-    try: down: int = data[row + 1][column]
-    except: down: int = None
+        for row_offset, column_offset in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+            count += self.check(row+row_offset, column+column_offset)
+        return count
 
-    return  left, right, up, down
-
-def partOne(data: list) -> int:
-    lowPoints: list = []
-    for row in range(len(data)):
-        for column, number in enumerate(data[row]):
-            if row == 0:
-                if column == 0:
-                    _, right, _, down = getCoords(data, row, column)
-                    if number < right and number < down: lowPoints.append(number)
-
-                elif column == len(data[row]) - 1:
-                    left, _, _, down = getCoords(data, row, column)
-                    if number < left and number < down: lowPoints.append(number)
-                
-                else:
-                    left, right, _, down = getCoords(data, row, column)
-                    if number < left and number < right and number < down: lowPoints.append(number)
-                    
-            elif row == len(data[row]) - 1: ...
-            else: ...
-    print(lowPoints)
-
-def partTwo(data: list) -> int: ...
+    def partTwo(self) -> int:
+        return math.prod(
+            sorted([
+                self.check(row, column)
+                for row in range(len(self.data))
+                for column in range(len(self.data[row]))
+            ])[-3:]
+        )
 
 def main() -> None:
-    data = getData(DATA)
-    print(partOne(data))
-    print(partTwo(data))
+    print(SmokeBasin(DATA).partOne())
+    print(SmokeBasin(DATA).partTwo())
 
 if __name__ == "__main__":
     main()
