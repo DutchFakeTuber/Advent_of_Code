@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 8/25           | 16/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
+| 9/25           | 19/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
 
 | Day                                      | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ---------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -16,7 +16,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 7 - The Treachery of Whales][DAY_7] | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
 | [Day 8 - Seven Segment Search][DAY_8]    | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
 | [Day 9 - Smoke Basin][DAY_9]             | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
-| [Day 10 - Syntax Scoring][DAY_10]        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |    |    |   |
+| [Day 10 - Syntax Scoring][DAY_10]        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   |    | :star:  |
 | [Day 11][DAY_11]                         | [][PUZZLE_11] | [][SOLUTION_11] |    |    |   |
 | [Day 12][DAY_12]                         | [][PUZZLE_12] | [][SOLUTION_12] |    |    |   |
 | [Day 13][DAY_13]                         | [][PUZZLE_13] | [][SOLUTION_13] |    |    |   |
