@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 10/25          | 20/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
+| 11/25          | 22/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
 
 | Day                                      | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ---------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -17,7 +17,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 8 - Seven Segment Search][DAY_8]    | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
 | [Day 9 - Smoke Basin][DAY_9]             | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
 | [Day 10 - Syntax Scoring][DAY_10]        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
-| [Day 11][DAY_11]                         | [][PUZZLE_11] | [][SOLUTION_11] |    |    |   |
+| [Day 11 - Dumbo Octopus][DAY_11]         | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
 | [Day 12][DAY_12]                         | [][PUZZLE_12] | [][SOLUTION_12] |    |    |   |
 | [Day 13][DAY_13]                         | [][PUZZLE_13] | [][SOLUTION_13] |    |    |   |
 | [Day 14][DAY_14]                         | [][PUZZLE_14] | [][SOLUTION_14] |    |    |   |
@@ -71,7 +71,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 [SOLUTION_8]:  Day%208/Day%208%20-%20Seven%20Segment%20Search.py
 [SOLUTION_9]:  Day%209/Day%209%20-%20Smoke%20Basin.py
 [SOLUTION_10]: Day%2010/Day%2010%20-%20Syntax%20Scoring.py
-[SOLUTION_11]: Day%2011/Day%2011%20-%20
+[SOLUTION_11]: Day%2011/Day%2011%20-%20Dumbo%20Octopus.py
 [SOLUTION_12]: Day%2012/Day%2012%20-%20
 [SOLUTION_13]: Day%2013/Day%2013%20-%20
 [SOLUTION_14]: Day%2014/Day%2014%20-%20
@@ -98,7 +98,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 [PUZZLE_8]:  Day%208/Seven_Segment_Search.py
 [PUZZLE_9]:  Day%209/Smoke_Basin.py
 [PUZZLE_10]: Day%2010/Syntax_Scoring.py
-[PUZZLE_11]: Day%2011/
+[PUZZLE_11]: Day%2011/Dumbo_Octopus.py
 [PUZZLE_12]: Day%2012/
 [PUZZLE_13]: Day%2013/
 [PUZZLE_14]: Day%2014/
