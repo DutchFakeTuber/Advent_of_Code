@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 11/25          | 22/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
+| 12/25          | 24/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
 
 | Day                                      | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ---------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -18,7 +18,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 9 - Smoke Basin][DAY_9]             | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
 | [Day 10 - Syntax Scoring][DAY_10]        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
 | [Day 11 - Dumbo Octopus][DAY_11]         | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
-| [Day 12][DAY_12]                         | [][PUZZLE_12] | [][SOLUTION_12] |    |    |   |
+| [Day 12 - Passage Pathing][DAY_12]       | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
 | [Day 13][DAY_13]                         | [][PUZZLE_13] | [][SOLUTION_13] |    |    |   |
 | [Day 14][DAY_14]                         | [][PUZZLE_14] | [][SOLUTION_14] |    |    |   |
 | [Day 15][DAY_15]                         | [][PUZZLE_15] | [][SOLUTION_15] |    |    |   |
