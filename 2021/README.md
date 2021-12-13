@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 12/25          | 24/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
+| 12/25          | 24/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
 
 | Day                                      | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ---------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -19,7 +19,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 10 - Syntax Scoring][DAY_10]        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
 | [Day 11 - Dumbo Octopus][DAY_11]         | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
 | [Day 12 - Passage Pathing][DAY_12]       | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
-| [Day 13][DAY_13]                         | [][PUZZLE_13] | [][SOLUTION_13] |    |    |   |
+| [Day 13 - Transparent Origami][DAY_13]   | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] | :star:   | :star:   | :star::star:  |
 | [Day 14][DAY_14]                         | [][PUZZLE_14] | [][SOLUTION_14] |    |    |   |
 | [Day 15][DAY_15]                         | [][PUZZLE_15] | [][SOLUTION_15] |    |    |   |
 | [Day 16][DAY_16]                         | [][PUZZLE_16] | [][SOLUTION_16] |    |    |   |
@@ -72,8 +72,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 [SOLUTION_9]:  Day%209/Day%209%20-%20Smoke%20Basin.py
 [SOLUTION_10]: Day%2010/Day%2010%20-%20Syntax%20Scoring.py
 [SOLUTION_11]: Day%2011/Day%2011%20-%20Dumbo%20Octopus.py
-[SOLUTION_12]: Day%2012/Day%2012%20-%20
-[SOLUTION_13]: Day%2013/Day%2013%20-%20
+[SOLUTION_12]: Day%2012/Day%2012%20-%20Passage%20Pathing.py
+[SOLUTION_13]: Day%2013/Day%2013%20-%20Transparent%20Origami.py
 [SOLUTION_14]: Day%2014/Day%2014%20-%20
 [SOLUTION_15]: Day%2015/Day%2015%20-%20
 [SOLUTION_16]: Day%2016/Day%2016%20-%20
@@ -99,8 +99,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 [PUZZLE_9]:  Day%209/Smoke_Basin.py
 [PUZZLE_10]: Day%2010/Syntax_Scoring.py
 [PUZZLE_11]: Day%2011/Dumbo_Octopus.py
-[PUZZLE_12]: Day%2012/
-[PUZZLE_13]: Day%2013/
+[PUZZLE_12]: Day%2012/Passage_Pathing.py
+[PUZZLE_13]: Day%2013/Transparent_Origami.py
 [PUZZLE_14]: Day%2014/
 [PUZZLE_15]: Day%2015/
 [PUZZLE_16]: Day%2016/
