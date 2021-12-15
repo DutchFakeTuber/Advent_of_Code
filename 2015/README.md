@@ -3,15 +3,15 @@ This is my input regarding the Advent of Code 2015 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 3/25           | 6/50            | :star::star::star::star::star::star: |
+| 5/25           | 10/50           | :star::star::star::star::star::star::star::star::star::star: |
 
 | Day                                                     | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
 | [Day 1 - Not Quite Lisp][DAY_1]                         | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  | :star:   | :star:   | :star::star:  |
 | [Day 2 - I Was Told There Would Be No Math][DAY_2]      | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  | :star:   | :star:   | :star::star:  |
 | [Day 3 - Perfectly Spherical Houses in a Vacuum][DAY_3] | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  | :star:   | :star:   | :star::star:  |
-| [Day 4 - The Ideal Stocking Stuffer][DAY_4]             | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |    |    |   |
-| [Day 5 - Doesn't He Have Intern-Elves For This?][DAY_5] | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |    |    |   |
+| [Day 4 - The Ideal Stocking Stuffer][DAY_4]             | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
+| [Day 5 - Doesn't He Have Intern-Elves For This?][DAY_5] | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6 - Probably a Fire Hazard][DAY_6]                 | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |    |    |   |
 | [Day 7 - Some Assembly Required][DAY_7]                 | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
 | [Day 8 - Matchsticks][DAY_8]                            | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
