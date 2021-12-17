@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 16/25          | 32/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star: |
+| 17/25          | 34/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -23,7 +23,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 14 - Extended Polymerization][DAY_14] | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] | :star:   | :star:   | :star::star:  |
 | [Day 15 - Chiton][DAY_15]                  | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] | :star:   | :star:   | :star::star:  |
 | [Day 16 - Packet Decoder][DAY_16]          | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] | :star:   | :star:   | :star::star:  |
-| [Day 17 - Trick Shot][DAY_17]              | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
+| [Day 17 - Trick Shot][DAY_17]              | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] | :star:   | :star:   | :star::star:  |
 | [Day 18][DAY_18]                           | [][PUZZLE_18] | [][SOLUTION_18] |    |    |   |
 | [Day 19][DAY_19]                           | [][PUZZLE_19] | [][SOLUTION_19] |    |    |   |
 | [Day 20][DAY_20]                           | [][PUZZLE_20] | [][SOLUTION_20] |    |    |   |

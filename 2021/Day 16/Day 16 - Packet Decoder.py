@@ -117,7 +117,7 @@ class ProcessPackets:
         return packet.value
 
 def main() -> None:
-    # print(ProcessPackets().partOne())
+    print(ProcessPackets().partOne())
     print(ProcessPackets().partTwo())
 
 if __name__ == "__main__":
