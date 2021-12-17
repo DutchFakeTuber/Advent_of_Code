@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 15/25          | 30/50           | :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star: |
+| 16/25          | 32/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -22,8 +22,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 13 - Transparent Origami][DAY_13]     | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] | :star:   | :star:   | :star::star:  |
 | [Day 14 - Extended Polymerization][DAY_14] | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] | :star:   | :star:   | :star::star:  |
 | [Day 15 - Chiton][DAY_15]                  | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] | :star:   | :star:   | :star::star:  |
-| [Day 16][DAY_16]                           | [][PUZZLE_16] | [][SOLUTION_16] |    |    |   |
-| [Day 17][DAY_17]                           | [][PUZZLE_17] | [][SOLUTION_17] |    |    |   |
+| [Day 16 - Packet Decoder][DAY_16]          | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] | :star:   | :star:   | :star::star:  |
+| [Day 17 - Trick Shot][DAY_17]              | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
 | [Day 18][DAY_18]                           | [][PUZZLE_18] | [][SOLUTION_18] |    |    |   |
 | [Day 19][DAY_19]                           | [][PUZZLE_19] | [][SOLUTION_19] |    |    |   |
 | [Day 20][DAY_20]                           | [][PUZZLE_20] | [][SOLUTION_20] |    |    |   |
@@ -76,8 +76,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 [SOLUTION_13]: Day%2013/Day%2013%20-%20Transparent%20Origami.py
 [SOLUTION_14]: Day%2014/Day%2014%20-%20Extended%20Polymerization.py
 [SOLUTION_15]: Day%2015/Day%2015%20-%20Chiton.py
-[SOLUTION_16]: Day%2016/Day%2016%20-%20
-[SOLUTION_17]: Day%2017/Day%2017%20-%20
+[SOLUTION_16]: Day%2016/Day%2016%20-%20Packet%20Decoder.py
+[SOLUTION_17]: Day%2017/Day%2017%20-%20Trick%20Shot.py
 [SOLUTION_18]: Day%2018/Day%2018%20-%20
 [SOLUTION_19]: Day%2019/Day%2019%20-%20
 [SOLUTION_20]: Day%2020/Day%2020%20-%20
@@ -103,8 +103,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 [PUZZLE_13]: Day%2013/Transparent_Origami.py
 [PUZZLE_14]: Day%2014/Extended_Polymerization.py
 [PUZZLE_15]: Day%2015/Chiton.py
-[PUZZLE_16]: Day%2016/
-[PUZZLE_17]: Day%2017/
+[PUZZLE_16]: Day%2016/Packet_Decoder.py
+[PUZZLE_17]: Day%2017/Trick_Shot.py
 [PUZZLE_18]: Day%2018/
 [PUZZLE_19]: Day%2019/
 [PUZZLE_20]: Day%2020/
