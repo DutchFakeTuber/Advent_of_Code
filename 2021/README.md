@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 17/25          | 34/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star: |
+| 18/25          | 36/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -24,8 +24,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 15 - Chiton][DAY_15]                  | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] | :star:   | :star:   | :star::star:  |
 | [Day 16 - Packet Decoder][DAY_16]          | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] | :star:   | :star:   | :star::star:  |
 | [Day 17 - Trick Shot][DAY_17]              | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] | :star:   | :star:   | :star::star:  |
-| [Day 18][DAY_18]                           | [][PUZZLE_18] | [][SOLUTION_18] |    |    |   |
-| [Day 19][DAY_19]                           | [][PUZZLE_19] | [][SOLUTION_19] |    |    |   |
+| [Day 18 - Snailfish][DAY_18]               | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] | :star:   | :star:   | :star::star:  |
+| [Day 19 - Beacon Scanner][DAY_19]          | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |    |    |   |
 | [Day 20][DAY_20]                           | [][PUZZLE_20] | [][SOLUTION_20] |    |    |   |
 | [Day 21][DAY_21]                           | [][PUZZLE_21] | [][SOLUTION_21] |    |    |   |
 | [Day 22][DAY_22]                           | [][PUZZLE_22] | [][SOLUTION_22] |    |    |   |
@@ -78,8 +78,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 [SOLUTION_15]: Day%2015/Day%2015%20-%20Chiton.py
 [SOLUTION_16]: Day%2016/Day%2016%20-%20Packet%20Decoder.py
 [SOLUTION_17]: Day%2017/Day%2017%20-%20Trick%20Shot.py
-[SOLUTION_18]: Day%2018/Day%2018%20-%20
-[SOLUTION_19]: Day%2019/Day%2019%20-%20
+[SOLUTION_18]: Day%2018/Day%2018%20-%20Snailfish.py
+[SOLUTION_19]: Day%2019/Day%2019%20-%20Beacon%20Scanner.py
 [SOLUTION_20]: Day%2020/Day%2020%20-%20
 [SOLUTION_21]: Day%2021/Day%2021%20-%20
 [SOLUTION_22]: Day%2022/Day%2022%20-%20
@@ -105,8 +105,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 [PUZZLE_15]: Day%2015/Chiton.py
 [PUZZLE_16]: Day%2016/Packet_Decoder.py
 [PUZZLE_17]: Day%2017/Trick_Shot.py
-[PUZZLE_18]: Day%2018/
-[PUZZLE_19]: Day%2019/
+[PUZZLE_18]: Day%2018/Snailfish.py
+[PUZZLE_19]: Day%2019/Beacon_Scanner.py
 [PUZZLE_20]: Day%2020/
 [PUZZLE_21]: Day%2021/
 [PUZZLE_22]: Day%2022/
