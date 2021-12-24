@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 19/25          | 38/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star: |
+| 20/25          | 41/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -26,8 +26,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 17 - Trick Shot][DAY_17]              | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] | :star:   | :star:   | :star::star:  |
 | [Day 18 - Snailfish][DAY_18]               | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] | :star:   | :star:   | :star::star:  |
 | [Day 19 - Beacon Scanner][DAY_19]          | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] | :star:   | :star:   | :star::star:  |
-| [Day 20][DAY_20]                           | [][PUZZLE_20] | [][SOLUTION_20] |    |    |   |
-| [Day 21][DAY_21]                           | [][PUZZLE_21] | [][SOLUTION_21] |    |    |   |
+| [Day 20 - Trench Map][DAY_20]              | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
+| [Day 21 - Dirac Dice][DAY_21]              | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   |    | :star:  |
 | [Day 22][DAY_22]                           | [][PUZZLE_22] | [][SOLUTION_22] |    |    |   |
 | [Day 23][DAY_23]                           | [][PUZZLE_23] | [][SOLUTION_23] |    |    |   |
 | [Day 24][DAY_24]                           | [][PUZZLE_24] | [][SOLUTION_24] |    |    |   |
@@ -80,8 +80,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 [SOLUTION_17]: Day%2017/Day%2017%20-%20Trick%20Shot.py
 [SOLUTION_18]: Day%2018/Day%2018%20-%20Snailfish.py
 [SOLUTION_19]: Day%2019/Day%2019%20-%20Beacon%20Scanner.py
-[SOLUTION_20]: Day%2020/Day%2020%20-%20
-[SOLUTION_21]: Day%2021/Day%2021%20-%20
+[SOLUTION_20]: Day%2020/Day%2020%20-%20Trench%20Map.py
+[SOLUTION_21]: Day%2021/Day%2021%20-%20Dirac%20Dice.py
 [SOLUTION_22]: Day%2022/Day%2022%20-%20
 [SOLUTION_23]: Day%2023/Day%2023%20-%20
 [SOLUTION_24]: Day%2024/Day%2024%20-%20
@@ -107,8 +107,8 @@ This is my input regarding the Advent of Code 2021 challenge.
 [PUZZLE_17]: Day%2017/Trick_Shot.py
 [PUZZLE_18]: Day%2018/Snailfish.py
 [PUZZLE_19]: Day%2019/Beacon_Scanner.py
-[PUZZLE_20]: Day%2020/
-[PUZZLE_21]: Day%2021/
+[PUZZLE_20]: Day%2020/Trench_Map.py
+[PUZZLE_21]: Day%2021/Dirac_Dice.py
 [PUZZLE_22]: Day%2022/
 [PUZZLE_23]: Day%2023/
 [PUZZLE_24]: Day%2024/
