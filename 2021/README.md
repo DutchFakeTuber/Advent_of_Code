@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 20/25          | 41/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star: |
+| 21/25          | 42/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -27,7 +27,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 18 - Snailfish][DAY_18]               | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] | :star:   | :star:   | :star::star:  |
 | [Day 19 - Beacon Scanner][DAY_19]          | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] | :star:   | :star:   | :star::star:  |
 | [Day 20 - Trench Map][DAY_20]              | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
-| [Day 21 - Dirac Dice][DAY_21]              | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   |    | :star:  |
+| [Day 21 - Dirac Dice][DAY_21]              | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
 | [Day 22][DAY_22]                           | [][PUZZLE_22] | [][SOLUTION_22] |    |    |   |
 | [Day 23][DAY_23]                           | [][PUZZLE_23] | [][SOLUTION_23] |    |    |   |
 | [Day 24][DAY_24]                           | [][PUZZLE_24] | [][SOLUTION_24] |    |    |   |
