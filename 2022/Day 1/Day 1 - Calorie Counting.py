@@ -1,6 +1,6 @@
 from Calorie_Counting import INPUT
 
-def puzzle_one():
+def partOne() -> list:
     elves: list = [0]
     for calories in INPUT.splitlines():
         if calories:
@@ -9,17 +9,17 @@ def puzzle_one():
             elves += [0]
     return elves
     
-def puzzle_two():
-    elves: list = puzzle_one()
+def partTwo() -> int:
+    elves: list = partOne()
     top_three: int = 0
     for _ in range(3):
         top_three += max(elves)
         elves.pop(elves.index(max(elves)))
     return top_three
     
-def main():
-    print(max(puzzle_one()))
-    print(puzzle_two())
+def main() -> None:
+    print(f"ANSWER PART ONE: {max(partOne())}")
+    print(f"ANSWER PART TWO: {partTwo()}")
 
 if __name__ == "__main__":
     main()
