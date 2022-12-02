@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 6/25           | 12/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
+| 7/25           | 14/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                                     | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -13,7 +13,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 | [Day 4 - The Ideal Stocking Stuffer][DAY_4]             | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
 | [Day 5 - Doesn't He Have Intern-Elves For This?][DAY_5] | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6 - Probably a Fire Hazard][DAY_6]                 | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
-| [Day 7 - Some Assembly Required][DAY_7]                 | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
+| [Day 7 - Some Assembly Required][DAY_7]                 | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
 | [Day 8 - Matchsticks][DAY_8]                            | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
 | [Day 9 - All in a Single Night][DAY_9]                  | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
 | [Day 10 - Elves Look, Elves Say][DAY_10]                | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |    |    |   |
