@@ -3,12 +3,12 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 1/25           | 2/50            | :star::star:      |
+| 2/25           | 4/50            | :star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
 | [Day 1 - Calorie Counting][DAY_1]          | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  | :star:   | :star:   | :star::star:  |
-| [Day 2][DAY_2]                             | [][PUZZLE_2]  | [][SOLUTION_2]  |    |    |   |
+| [Day 2 - Rock Paper Scissors][DAY_2]       | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  | :star:   | :star:   | :star::star:  |
 | [Day 3][DAY_3]                             | [][PUZZLE_3]  | [][SOLUTION_3]  |    |    |   |
 | [Day 4][DAY_4]                             | [][PUZZLE_4]  | [][SOLUTION_4]  |    |    |   |
 | [Day 5][DAY_5]                             | [][PUZZLE_5]  | [][SOLUTION_5]  |    |    |   |
@@ -62,7 +62,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 <!-- Link to the local Solution File -->
 [SOLUTION_1]:  Day%201/Day%201%20-%20Calorie%20Counting.py
-[SOLUTION_2]:  Day%202/Day%202%20-%20
+[SOLUTION_2]:  Day%202/Day%202%20-%20Rock%20Paper%20Scissors.py
 [SOLUTION_3]:  Day%203/Day%203%20-%20
 [SOLUTION_4]:  Day%204/Day%204%20-%20
 [SOLUTION_5]:  Day%205/Day%205%20-%20
@@ -89,7 +89,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 <!-- Link to the local Puzzle Input File -->
 [PUZZLE_1]:  Day%201/Calorie_Counting.py
-[PUZZLE_2]:  Day%202/
+[PUZZLE_2]:  Day%202/Rock_Paper_Scissors.py
 [PUZZLE_3]:  Day%203/
 [PUZZLE_4]:  Day%204/
 [PUZZLE_5]:  Day%205/
@@ -108,7 +108,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_18]: Day%2018/
 [PUZZLE_19]: Day%2019/
 [PUZZLE_20]: Day%2020/
-[PUZZLE_21]: Day%2022/
+[PUZZLE_21]: Day%2021/
 [PUZZLE_22]: Day%2022/
 [PUZZLE_23]: Day%2023/
 [PUZZLE_24]: Day%2024/
