@@ -3,15 +3,15 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 4/25           | 8/50            | :star::star::star::star::star::star::star::star: |
+| 5/25           | 10/50           | :star::star::star::star::star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
 | [Day 1 - Calorie Counting][DAY_1]          | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  | :star:   | :star:   | :star::star:  |
 | [Day 2 - Rock Paper Scissors][DAY_2]       | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  | :star:   | :star:   | :star::star:  |
 | [Day 3 - Rucksack Reorganization][DAY_3]   | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  | :star:   | :star:   | :star::star:  |
-| [Day 4 - Camp Cleanup][DAY_4]                             | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
-| [Day 5][DAY_5]                             | [][PUZZLE_5]  | [][SOLUTION_5]  |    |    |   |
+| [Day 4 - Camp Cleanup][DAY_4]              | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
+| [Day 5 - Supply Stacks][DAY_5]             | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6][DAY_6]                             | [][PUZZLE_6]  | [][SOLUTION_6]  |    |    |   |
 | [Day 7][DAY_7]                             | [][PUZZLE_7]  | [][SOLUTION_7]  |    |    |   |
 | [Day 8][DAY_8]                             | [][PUZZLE_8]  | [][SOLUTION_8]  |    |    |   |
@@ -65,7 +65,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [SOLUTION_2]:  Day%202/Day%202%20-%20Rock%20Paper%20Scissors.py
 [SOLUTION_3]:  Day%203/Day%203%20-%20Rucksack%20Reorganization.py
 [SOLUTION_4]:  Day%204/Day%204%20-%20Camp%20Cleanup.py
-[SOLUTION_5]:  Day%205/Day%205%20-%20
+[SOLUTION_5]:  Day%205/Day%205%20-%20Supply%20Stacks.py
 [SOLUTION_6]:  Day%206/Day%206%20-%20
 [SOLUTION_7]:  Day%207/Day%207%20-%20
 [SOLUTION_8]:  Day%208/Day%208%20-%20
@@ -92,7 +92,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_2]:  Day%202/Rock_Paper_Scissors.py
 [PUZZLE_3]:  Day%203/Rucksack_Reorganization.py
 [PUZZLE_4]:  Day%204/Camp_Cleanup.py
-[PUZZLE_5]:  Day%205/
+[PUZZLE_5]:  Day%205/Supply_Stacks.py
 [PUZZLE_6]:  Day%206/
 [PUZZLE_7]:  Day%207/
 [PUZZLE_8]:  Day%208/
