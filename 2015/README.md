@@ -95,7 +95,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 [PUZZLE_5]:  Day%205/Doesnt_He_Have_Intern_Elves_For_This.py
 [PUZZLE_6]:  Day%206/Probably_a_Fire_Hazard.py
 [PUZZLE_7]:  Day%207/Some_Assembly_Required.py
-[PUZZLE_8]:  Day%208/Matchsticks.py
+[PUZZLE_8]:  Day%208/Matchsticks.txt
 [PUZZLE_9]:  Day%209/All_in_a_Single_Night.py
 [PUZZLE_10]: Day%2010/Elves_Look,_Elves_Say.py
 [PUZZLE_11]: Day%2011/Corporate_Policy.py
