@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 5/25           | 10/50           | :star::star::star::star::star::star::star::star::star::star: |
+| 6/25           | 12/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -12,7 +12,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 3 - Rucksack Reorganization][DAY_3]   | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  | :star:   | :star:   | :star::star:  |
 | [Day 4 - Camp Cleanup][DAY_4]              | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
 | [Day 5 - Supply Stacks][DAY_5]             | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
-| [Day 6][DAY_6]                             | [][PUZZLE_6]  | [][SOLUTION_6]  |    |    |   |
+| [Day 6 - Tuning Trouble][DAY_6]            | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
 | [Day 7][DAY_7]                             | [][PUZZLE_7]  | [][SOLUTION_7]  |    |    |   |
 | [Day 8][DAY_8]                             | [][PUZZLE_8]  | [][SOLUTION_8]  |    |    |   |
 | [Day 9][DAY_9]                             | [][PUZZLE_9]  | [][SOLUTION_9]  |    |    |   |
@@ -66,7 +66,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [SOLUTION_3]:  Day%203/Day%203%20-%20Rucksack%20Reorganization.py
 [SOLUTION_4]:  Day%204/Day%204%20-%20Camp%20Cleanup.py
 [SOLUTION_5]:  Day%205/Day%205%20-%20Supply%20Stacks.py
-[SOLUTION_6]:  Day%206/Day%206%20-%20
+[SOLUTION_6]:  Day%206/Day%206%20-%20Tuning%20Trouble.py
 [SOLUTION_7]:  Day%207/Day%207%20-%20
 [SOLUTION_8]:  Day%208/Day%208%20-%20
 [SOLUTION_9]:  Day%209/Day%209%20-%20
@@ -93,7 +93,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_3]:  Day%203/Rucksack_Reorganization.py
 [PUZZLE_4]:  Day%204/Camp_Cleanup.py
 [PUZZLE_5]:  Day%205/Supply_Stacks.py
-[PUZZLE_6]:  Day%206/
+[PUZZLE_6]:  Day%206/Tuning_Trouble.py
 [PUZZLE_7]:  Day%207/
 [PUZZLE_8]:  Day%208/
 [PUZZLE_9]:  Day%209/
