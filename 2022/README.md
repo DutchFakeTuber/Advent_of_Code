@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 6/25           | 12/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
+| 7/25           | 14/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -14,7 +14,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 5 - Supply Stacks][DAY_5]             | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6 - Tuning Trouble][DAY_6]            | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
 | [Day 7][DAY_7]                             | [][PUZZLE_7]  | [][SOLUTION_7]  |    |    |   |
-| [Day 8][DAY_8]                             | [][PUZZLE_8]  | [][SOLUTION_8]  |    |    |   |
+| [Day 8 - Treetop Tree House][DAY_8]        | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
 | [Day 9][DAY_9]                             | [][PUZZLE_9]  | [][SOLUTION_9]  |    |    |   |
 | [Day 10][DAY_10]                           | [][PUZZLE_10] | [][SOLUTION_10] |    |    |   |
 | [Day 11][DAY_11]                           | [][PUZZLE_11] | [][SOLUTION_11] |    |    |   |
@@ -68,7 +68,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [SOLUTION_5]:  Day%205/Day%205%20-%20Supply%20Stacks.py
 [SOLUTION_6]:  Day%206/Day%206%20-%20Tuning%20Trouble.py
 [SOLUTION_7]:  Day%207/Day%207%20-%20
-[SOLUTION_8]:  Day%208/Day%208%20-%20
+[SOLUTION_8]:  Day%208/Day%208%20-%20Treetop%20Tree%20House.py
 [SOLUTION_9]:  Day%209/Day%209%20-%20
 [SOLUTION_10]: Day%2010/Day%2010%20-%20
 [SOLUTION_11]: Day%2011/Day%2011%20-%20
@@ -95,7 +95,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_5]:  Day%205/Supply_Stacks.py
 [PUZZLE_6]:  Day%206/Tuning_Trouble.py
 [PUZZLE_7]:  Day%207/
-[PUZZLE_8]:  Day%208/
+[PUZZLE_8]:  Day%208/Treetop_Tree_House.py
 [PUZZLE_9]:  Day%209/
 [PUZZLE_10]: Day%2010/
 [PUZZLE_11]: Day%2011/
