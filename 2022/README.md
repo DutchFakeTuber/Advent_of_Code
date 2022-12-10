@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 8/25           | 16/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
+| 9/25           | 18/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -13,7 +13,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 4 - Camp Cleanup][DAY_4]              | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
 | [Day 5 - Supply Stacks][DAY_5]             | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6 - Tuning Trouble][DAY_6]            | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
-| [Day 7][DAY_7]                             | [][PUZZLE_7]  | [][SOLUTION_7]  |    |    |   |
+| [Day 7 - No Space Left On Device][DAY_7]   | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
 | [Day 8 - Treetop Tree House][DAY_8]        | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
 | [Day 9 - Rope Bridge][DAY_9]               | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   |    | :star:  |
 | [Day 10 - Cathode-Ray Tube][DAY_10]        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
@@ -67,7 +67,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [SOLUTION_4]:  Day%204/Day%204%20-%20Camp%20Cleanup.py
 [SOLUTION_5]:  Day%205/Day%205%20-%20Supply%20Stacks.py
 [SOLUTION_6]:  Day%206/Day%206%20-%20Tuning%20Trouble.py
-[SOLUTION_7]:  Day%207/Day%207%20-%20
+[SOLUTION_7]:  Day%207/Day%207%20-%20No%20Space%20Left%20On%20Device.py
 [SOLUTION_8]:  Day%208/Day%208%20-%20Treetop%20Tree%20House.py
 [SOLUTION_9]:  Day%209/Day%209%20-%20Rope%20Bridge.py
 [SOLUTION_10]: Day%2010/Day%2010%20-%20Cathode-Ray%20Tube.py
@@ -94,7 +94,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_4]:  Day%204/Camp_Cleanup.py
 [PUZZLE_5]:  Day%205/Supply_Stacks.py
 [PUZZLE_6]:  Day%206/Tuning_Trouble.py
-[PUZZLE_7]:  Day%207/
+[PUZZLE_7]:  Day%207/No_Space_Left_On_Device.py
 [PUZZLE_8]:  Day%208/Treetop_Tree_House.py
 [PUZZLE_9]:  Day%209/Rope_Bridge.py
 [PUZZLE_10]: Day%2010/Cathode_Ray_Tube.py
