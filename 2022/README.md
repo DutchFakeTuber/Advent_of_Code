@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 10/25           | 20/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star:<br> |
+| 11/25          | 22/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star:<br>:star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -15,7 +15,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 6 - Tuning Trouble][DAY_6]            | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
 | [Day 7 - No Space Left On Device][DAY_7]   | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
 | [Day 8 - Treetop Tree House][DAY_8]        | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
-| [Day 9 - Rope Bridge][DAY_9]               | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   |    | :star:  |
+| [Day 9 - Rope Bridge][DAY_9]               | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
 | [Day 10 - Cathode-Ray Tube][DAY_10]        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
 | [Day 11 - Monkey in the Middle][DAY_11]    | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
 | [Day 12][DAY_12]                           | [][PUZZLE_12] | [][SOLUTION_12] |    |    |   |

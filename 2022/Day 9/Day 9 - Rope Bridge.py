@@ -3,65 +3,56 @@ from Rope_Bridge import INPUT
 def getData() -> list[str, int]:
     return [[str(line.split(' ')[0]), int(line.split(' ')[1])] for line in INPUT.splitlines() if len(line) != 0]
 
-class Rope:
-    SAFE: dict = {1: [-1, 0, 1], 0: [-1, 0, 1], -1: [-1, 0, 1]}
+class Head:
     MOVE: dict = dict(left=[-1, 0], right=[1, 0], up=[0, 1], down=[0, -1])
-    def __init__(self, head: list=[0, 0], tail: list=[0, 0]) -> None:
-        self.head: list = head  # [X, Y]
-        self.tail: list = tail  # [X, Y]
-        self.path: dict = {f'{self.tail[0]}, {self.tail[1]}': 1}  # "Coord X, Coord Y": # Passes
-
-    def checkPath(self) -> None:
-        if f'{self.tail[0]}, {self.tail[1]}' in self.path.keys():
-            self.path[f'{self.tail[0]}, {self.tail[1]}'] += 1
-        else:
-            self.path[f'{self.tail[0]}, {self.tail[1]}'] = 1
+    def __init__(self) -> None:
+        self.x: int = 0
+        self.y: int = 0
     
-    def checkRange(self) -> bool:
-        """ Check if the tail is in range of the head. """
-        if self.head[1] - self.tail[1] in self.SAFE.keys():
-            if self.head[0] - self.tail[0] in self.SAFE[self.head[1] - self.tail[1]]:
-                return True
-        return False
-
-    def moveHead(self, direction, number) -> None:
+    def move(self, direction: str, number: int) -> int:
         match direction:
             case 'L': move: list = self.MOVE['left']
             case 'R': move: list = self.MOVE['right']
             case 'U': move: list = self.MOVE['up']
             case 'D': move: list = self.MOVE['down']
+        self.x += move[0]
+        self.y += move[1]
+        return number - 1
 
-        for _ in range(number):
-            self.head = [self.head[0] + move[0], self.head[1] + move[1]]
-            self._moveTail()
+class Tail(Head):
+    def __init__(self) -> None:
+        super().__init__()
+        self.positions: set = set()
     
-    def _moveTail(self) -> None:
-        """ First, check if the tail has to be moved. If so, prioritize non-diagonal movements. """
-        # Check if the tail is in range of the head. If so, do nothing.
-        if self.checkRange():
-            return
-        # Check diagonal moves.
-        for h in self.MOVE.values():
-            for key in self.SAFE.keys():
-                for val in self.SAFE[key]:
-                    if [self.head[0]+h[0], self.head[1]+h[1]] == [self.tail[0]+val, self.tail[1]+key]:
-                        self.tail = [self.tail[0]+val, self.tail[1]+key]
-                        self.checkPath()
-                        return
+    def move(self, *pos: tuple) -> None:
+        dist_x = pos[0] - self.x
+        dist_y = pos[1] - self.y
+        if abs(dist_x) == 2 and not dist_y:  # Horizontal
+            self.x += 1 if dist_x > 0 else -1
+        elif abs(dist_y) == 2 and not dist_x:  # Vertical
+            self.y += 1 if dist_y > 0 else -1
+        elif (abs(dist_y) == 2 and abs(dist_x) in (1, 2)) \
+                or (abs(dist_x) == 2 and abs(dist_y) in (1, 2)):
+            self.x += 1 if dist_x > 0 else -1
+            self.y += 1 if dist_y > 0 else -1
+        self.positions.add(tuple([self.x, self.y]))
 
-def partOne() -> int:
+def parts(knots: int) -> int:
     instruction: list[list[str, int]] = getData()
-    rope = Rope(head=[0, 0], tail=[0, 0])
+    head: Head = Head()
+    tails: list[Tail] = [Tail() for _ in range(knots)]
     for inst in instruction:
-        rope.moveHead(*inst)
-    return len(rope.path.keys())
-
-def partTwo() -> int:
-    ...
+        moves: int = inst[1]
+        while moves != 0:
+            moves: int = head.move(inst[0], moves)
+            tails[0].move(head.x, head.y)
+            for t in range(1, len(tails)):
+                tails[t].move(tails[t-1].x, tails[t-1].y)
+    return len(tails[-1].positions)
 
 def main() -> None:
-    print(f'ANSWER PART ONE: {partOne()}')
-    print(f'ANSWER PART TWO: {partTwo()}')
+    print(f'ANSWER PART ONE: {parts(1)}')
+    print(f'ANSWER PART TWO: {parts(9)}')
 
 if __name__ == "__main__":
     main()
