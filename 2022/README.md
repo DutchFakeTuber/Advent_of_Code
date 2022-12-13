@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 11/25          | 22/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
+| 12/25          | 24/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -18,7 +18,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 9 - Rope Bridge][DAY_9]               | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
 | [Day 10 - Cathode-Ray Tube][DAY_10]        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
 | [Day 11 - Monkey in the Middle][DAY_11]    | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
-| [Day 12][DAY_12]                           | [][PUZZLE_12] | [][SOLUTION_12] |    |    |   |
+| [Day 12 - Hill Climbing Algorithm][DAY_12] | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
 | [Day 13][DAY_13]                           | [][PUZZLE_13] | [][SOLUTION_13] |    |    |   |
 | [Day 14][DAY_14]                           | [][PUZZLE_14] | [][SOLUTION_14] |    |    |   |
 | [Day 15][DAY_15]                           | [][PUZZLE_15] | [][SOLUTION_15] |    |    |   |
@@ -72,7 +72,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [SOLUTION_9]:  Day%209/Day%209%20-%20Rope%20Bridge.py
 [SOLUTION_10]: Day%2010/Day%2010%20-%20Cathode-Ray%20Tube.py
 [SOLUTION_11]: Day%2011/Day%2011%20-%20Monkey%20in%20the%20Middle.py
-[SOLUTION_12]: Day%2012/Day%2012%20-%20
+[SOLUTION_12]: Day%2012/Day%2012%20-%20Hill%20Climbing%20Algorithm.py
 [SOLUTION_13]: Day%2013/Day%2013%20-%20
 [SOLUTION_14]: Day%2014/Day%2014%20-%20
 [SOLUTION_15]: Day%2015/Day%2015%20-%20
@@ -99,7 +99,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_9]:  Day%209/Rope_Bridge.py
 [PUZZLE_10]: Day%2010/Cathode_Ray_Tube.py
 [PUZZLE_11]: Day%2011/Monkey_in_the_Middle.py
-[PUZZLE_12]: Day%2012/
+[PUZZLE_12]: Day%2012/Hill_Climbing_Algorithm.py
 [PUZZLE_13]: Day%2013/
 [PUZZLE_14]: Day%2014/
 [PUZZLE_15]: Day%2015/
