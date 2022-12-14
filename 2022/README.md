@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 13/25          | 26/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 14/25          | 28/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -20,7 +20,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 11 - Monkey in the Middle][DAY_11]    | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
 | [Day 12 - Hill Climbing Algorithm][DAY_12] | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
 | [Day 13 - Distress Signal][DAY_13]         | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] | :star:   | :star:   | :star::star:  |
-| [Day 14][DAY_14]                           | [][PUZZLE_14] | [][SOLUTION_14] |    |    |   |
+| [Day 14 - Regolith Reservoir][DAY_14]      | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] | :star:   | :star:   | :star::star:  |
 | [Day 15][DAY_15]                           | [][PUZZLE_15] | [][SOLUTION_15] |    |    |   |
 | [Day 16][DAY_16]                           | [][PUZZLE_16] | [][SOLUTION_16] |    |    |   |
 | [Day 17][DAY_17]                           | [][PUZZLE_17] | [][SOLUTION_17] |    |    |   |
@@ -74,7 +74,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [SOLUTION_11]: Day%2011/Day%2011%20-%20Monkey%20in%20the%20Middle.py
 [SOLUTION_12]: Day%2012/Day%2012%20-%20Hill%20Climbing%20Algorithm.py
 [SOLUTION_13]: Day%2013/Day%2013%20-%20Distress%20Signal.py
-[SOLUTION_14]: Day%2014/Day%2014%20-%20
+[SOLUTION_14]: Day%2014/Day%2014%20-%20Regolith%20Reservoir.py
 [SOLUTION_15]: Day%2015/Day%2015%20-%20
 [SOLUTION_16]: Day%2016/Day%2016%20-%20
 [SOLUTION_17]: Day%2017/Day%2017%20-%20
@@ -101,7 +101,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_11]: Day%2011/Monkey_in_the_Middle.py
 [PUZZLE_12]: Day%2012/Hill_Climbing_Algorithm.py
 [PUZZLE_13]: Day%2013/Distress_Signal.py
-[PUZZLE_14]: Day%2014/
+[PUZZLE_14]: Day%2014/Regolith_Reservoir.py
 [PUZZLE_15]: Day%2015/
 [PUZZLE_16]: Day%2016/
 [PUZZLE_17]: Day%2017/
