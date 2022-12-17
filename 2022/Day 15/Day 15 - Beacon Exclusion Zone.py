@@ -18,7 +18,7 @@ class Beacons:
         values: list[list[int, int]] = sorted(self.line(row))
         v: list[list[int, int]] = [values[0]]
         v[0][0] = v[0][0] if v[0][0] >= min_max[0] else min_max[0]
-        v[0][1] = v[0][1] if v[0][1] <= min_max[1] else min_max[1]
+        v[0][1] = v[0][1] if v[0][1] <= min_max[1] else min_max[1]        
         for val in values[1:]:
             for num, _v in enumerate(v):
                 if val[0] <= min_max[0] or _v[0] <= val[0] <= _v[1]:
@@ -27,17 +27,18 @@ class Beacons:
                     if v[-1][1] > min_max[1]:
                         break
                 else:
-                    self.cell = True
+                    # self.cell = True
                     return row, values
     
     def line(self, place: int) -> list[list[int, int]]:
         row: list = []
         for key, val in self.areas.items():
+            _key = eval(key)
             if val['u'] <= place <= val['d']:
-                if place > eval(key)[1]:
-                    row.append([eval(key)[0]-((val['d']-place)*2+1)//2, eval(key)[0]+((val['d']-place)*2+1)//2])
+                if place > _key[1]:
+                    row.append([_key[0]-((val['d']-place)*2+1)//2, _key[0]+((val['d']-place)*2+1)//2])
                 else:
-                    row.append([eval(key)[0]-((place-val['u'])*2+1)//2, eval(key)[0]+((place-val['u'])*2+1)//2])
+                    row.append([_key[0]-((place-val['u'])*2+1)//2, _key[0]+((place-val['u'])*2+1)//2])
         return row
 
     def area(self) -> None:
@@ -72,7 +73,6 @@ def partTwo(area: list[int, int]) -> int:
         for r in res:
             if r and len(result) == 0:
                 result = r
-    print(result)
     for c1, c2 in zip(result[1], result[1][1:]):
         if c2[0] - c1[1] == 2:
             return (c1[1] + 1) * 4_000_000 + result[0]
