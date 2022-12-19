@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 17/25          | 34/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
+| 18/25          | 36/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -23,8 +23,8 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 14 - Regolith Reservoir][DAY_14]      | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] | :star:   | :star:   | :star::star:  |
 | [Day 15 - Beacon Exclusion Zone][DAY_15]   | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] | :star:   | :star:   | :star::star:  |
 | [Day 16 - Proboscidea Volcanium][DAY_16]   | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] | :star:   | :star:   | :star::star:  |
-| [Day 17 - Pyroclastic Flow.py][DAY_17]     | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] | :star:   | :star:   | :star::star:  |
-| [Day 18][DAY_18]                           | [][PUZZLE_18] | [][SOLUTION_18] |    |    |   |
+| [Day 17 - Pyroclastic Flow][DAY_17]        | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] | :star:   | :star:   | :star::star:  |
+| [Day 18 - Boiling Boulders][DAY_18]        | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] | :star:   | :star:   | :star::star:  |
 | [Day 19][DAY_19]                           | [][PUZZLE_19] | [][SOLUTION_19] |    |    |   |
 | [Day 20][DAY_20]                           | [][PUZZLE_20] | [][SOLUTION_20] |    |    |   |
 | [Day 21][DAY_21]                           | [][PUZZLE_21] | [][SOLUTION_21] |    |    |   |
@@ -78,7 +78,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [SOLUTION_15]: Day%2015/Day%2015%20-%20Beacon%20Exclusion%20Zone.py
 [SOLUTION_16]: Day%2016/Day%2016%20-%20Proboscidea%20Volcanium.py
 [SOLUTION_17]: Day%2017/Day%2017%20-%20Pyroclastic%20Flow.py
-[SOLUTION_18]: Day%2018/Day%2018%20-%20
+[SOLUTION_18]: Day%2018/Day%2018%20-%20Boiling%20Boulders.py
 [SOLUTION_19]: Day%2019/Day%2019%20-%20
 [SOLUTION_20]: Day%2020/Day%2020%20-%20
 [SOLUTION_21]: Day%2022/Day%2021%20-%20
@@ -105,7 +105,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_15]: Day%2015/Beacon_Exclusion_Zone.py
 [PUZZLE_16]: Day%2016/Proboscidea_Volcanium.py
 [PUZZLE_17]: Day%2017/Pyroclastic_Flow.py
-[PUZZLE_18]: Day%2018/
+[PUZZLE_18]: Day%2018/Boiling_Boulders.py
 [PUZZLE_19]: Day%2019/
 [PUZZLE_20]: Day%2020/
 [PUZZLE_21]: Day%2021/
