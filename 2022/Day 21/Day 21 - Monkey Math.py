@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from Monkey_Math import INPUT, TEST
+from Monkey_Math import INPUT
 
 def getData() -> list[list[str, str]]:
     return [line.split(': ') for line in INPUT.splitlines() if len(line) != 0]
