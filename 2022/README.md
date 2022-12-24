@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 22/25          | 45/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star: |
+| 23/25          | 46/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -28,7 +28,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 19 - Not Enough Materials][DAY_19]    | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] | :star:   | :star:   | :star::star:  |
 | [Day 20 - Grove Positioning System][DAY_20]| [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
 | [Day 21 - Monkey Math][DAY_21]             | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
-| [Day 22 - Monkey Map][DAY_22]              | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] | :star:   |    | :star:  |
+| [Day 22 - Monkey Map][DAY_22]              | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] | :star:   | :star:   | :star::star:  |
 | [Day 23 - Unstable Diffusion][DAY_23]      | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] | :star:   | :star:   | :star::star:  |
 | [Day 24][DAY_24]                           | [][PUZZLE_24] | [][SOLUTION_24] |    |    |   |
 | [Day 25][DAY_25]                           | [][PUZZLE_25] | [][SOLUTION_25] |    |    |   |
