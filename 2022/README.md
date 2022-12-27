@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 23/25          | 46/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 24/25          | 48/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -30,7 +30,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 | [Day 21 - Monkey Math][DAY_21]             | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
 | [Day 22 - Monkey Map][DAY_22]              | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] | :star:   | :star:   | :star::star:  |
 | [Day 23 - Unstable Diffusion][DAY_23]      | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] | :star:   | :star:   | :star::star:  |
-| [Day 24][DAY_24]                           | [][PUZZLE_24] | [][SOLUTION_24] |    |    |   |
+| [Day 24 - Blizzard Basin][DAY_24]          | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] | :star:   | :star:   | :star::star:  |
 | [Day 25][DAY_25]                           | [][PUZZLE_25] | [][SOLUTION_25] |    |    |   |
 
 <!-- Link to the days in Advent of Code -->
@@ -84,7 +84,7 @@ This is my input regarding the Advent of Code 2022 challenge.
 [SOLUTION_21]: Day%2022/Day%2021%20-%20Monkey%20Math.py
 [SOLUTION_22]: Day%2022/Day%2022%20-%20Monkey%20Map.py
 [SOLUTION_23]: Day%2023/Day%2023%20-%20Unstable%20Diffusion.py
-[SOLUTION_24]: Day%2024/Day%2024%20-%20
+[SOLUTION_24]: Day%2024/Day%2024%20-%20Blizzard%20Basin.py
 [SOLUTION_25]: Day%2025/Day%2025%20-%20
 
 <!-- Link to the local Puzzle Input File -->
@@ -111,5 +111,5 @@ This is my input regarding the Advent of Code 2022 challenge.
 [PUZZLE_21]: Day%2021/Monkey_Math.py
 [PUZZLE_22]: Day%2022/Monkey_Map.py
 [PUZZLE_23]: Day%2023/Unstable_Diffusion.py
-[PUZZLE_24]: Day%2024/
+[PUZZLE_24]: Day%2024/Blizzard_Basin.py
 [PUZZLE_25]: Day%2025/
