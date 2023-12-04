@@ -3,14 +3,14 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 03/25          | 06/50           | :star::star::star::star::star::star: |
+| 04/25          | 08/50           | :star::star::star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
 | [Day 1 - Trebuchet?!][DAY_1]               | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  |  :star:  |  :star:  | :star::star:  |
 | [Day 2 - Cube Conundrum][DAY_2]            | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  |  :star:  |  :star:  | :star::star:  |
 | [Day 3 - Gear Ratios][DAY_3]               | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  |  :star:  |  :star:  | :star::star:  |
-| [Day 4 - ][DAY_4]                          | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |    |    |   |
+| [Day 4 - Scratchcards][DAY_4]              | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |  :star:  |  :star:  | :star::star:  |
 | [Day 5 - ][DAY_5]                          | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |    |    |   |
 | [Day 6 - ][DAY_6]                          | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |    |    |   |
 | [Day 7 - ][DAY_7]                          | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
@@ -64,7 +64,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_1]:  Day%201/Day%201%20-%20Trebuchet.py
 [SOLUTION_2]:  Day%202/Day%202%20-%20Cube%20Conundrum.py
 [SOLUTION_3]:  Day%203/Day%203%20-%20Gear%20Ratios.py
-[SOLUTION_4]:  Day%204/Day%204%20-%20
+[SOLUTION_4]:  Day%204/Day%204%20-%20Scratchcards.py
 [SOLUTION_5]:  Day%205/Day%205%20-%20
 [SOLUTION_6]:  Day%206/Day%206%20-%20
 [SOLUTION_7]:  Day%207/Day%207%20-%20
@@ -91,7 +91,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_1]:  Day%201/Trebuchet.py
 [PUZZLE_2]:  Day%202/Cube_Conundrum.py
 [PUZZLE_3]:  Day%203/Gear_Ratios.py
-[PUZZLE_4]:  Day%204/
+[PUZZLE_4]:  Day%204/Scratchcards.py
 [PUZZLE_5]:  Day%205/
 [PUZZLE_6]:  Day%206/
 [PUZZLE_7]:  Day%207/
