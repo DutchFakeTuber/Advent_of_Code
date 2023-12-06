@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 05/25          | 10/50           | :star::star::star::star::star::star::star::star::star::star:<br> |
+| 06/25          | 12/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -12,7 +12,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 | [Day 3 - Gear Ratios][DAY_3]                      | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  |  :star:  |  :star:  | :star::star:  |
 | [Day 4 - Scratchcards][DAY_4]                     | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |  :star:  |  :star:  | :star::star:  |
 | [Day 5 - If You Gave A Seed A Fertilizer][DAY_5]  | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |  :star:  |  :star:  | :star::star:  |
-| [Day 6 - Wait For It][DAY_6]                      | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |    |    |   |
+| [Day 6 - Wait For It][DAY_6]                      | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |  :star:  |  :star:  | :star::star:  |
 | [Day 7 - ][DAY_7]                                 | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
 | [Day 8 - ][DAY_8]                                 | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
 | [Day 9 - ][DAY_9]                                 | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
