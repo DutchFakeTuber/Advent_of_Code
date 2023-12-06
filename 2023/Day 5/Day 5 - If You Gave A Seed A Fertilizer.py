@@ -16,7 +16,7 @@ class Almanac:
             if len(self.data) and not self.data[0].isnumeric():
                 self.data = self.data[1:]
 
-    def checkMaps(self, location: int, destination: int=0) -> None:
+    def recursive(self, location: int, destination: int=0) -> None:
         if self.found: return
         recursion: bool = destination < len(self.maps) - 1
         present: bool = False
@@ -24,20 +24,20 @@ class Almanac:
             if s <= location <= s+r:
                 present = True
                 if recursion:
-                    self.checkMaps(d+(location-s), destination=destination+1)
+                    self.recursive(d+(location-s), destination=destination+1)
                 elif not self.found:
                     self.location = min([self.location, d+(location-s)])
                     self.found = True
                     return
         if not present:
             if recursion:
-                self.checkMaps(location, destination=destination+1)
+                self.recursive(location, destination=destination+1)
             elif not self.found:
                 self.location = min([self.location, location])
                 self.found = True
                 return
     
-    def partTwo(self, location: list[list[int]], destination=0) -> int:
+    def checkMaps(self, location: list[list[int]], destination=0) -> int:
         recursion: bool = destination < len(self.maps) - 1
         currMap: list = location
         nextMap: list = []
@@ -47,50 +47,44 @@ class Almanac:
                 if currMap[position][-1] < s: pass
                 elif currMap[position][0] > s+r: pass
                 else:
-                    ##### BETWEEN THESE LINES SHOULD BE ENHANCED
-                    curr: set = set(range(currMap[position][0], currMap[position][-1]+1))
-                    dest: set = set(range(s, s+r+1))
-                    intersect: set = dest.intersection(curr)
-                    intersect: list[int, int] = [min(intersect), max(intersect)]
-                    ##### BETWEEN THESE LINES SHOULD BE ENHANCED
-                    nextMap.append(list([d+(intersect[0]-s), d+(intersect[1]-s)]))
-                    if currMap[position][0] < intersect[0]:
-                        currMap.append([currMap[position][0], intersect[0]-1])
-                    if currMap[position][1] > intersect[1]:
-                        currMap.append([currMap[position][0], intersect[1]+1])
+                    _min: int = max([currMap[position][0], s])
+                    _max: int = min([currMap[position][-1], s+r])
+                    nextMap.append(list([d+(_min-s), d+(_max-s)]))
+                    if currMap[position][0] < _min:
+                        currMap.append([currMap[position][0], _min-1])
+                    if currMap[position][1] > _max:
+                        currMap.append([currMap[position][1], _max+1])
                     currMap = [*currMap[:position], *currMap[position+1:]]
                 position += 1
         if destination < len(self.maps):
             nextMap = [*nextMap, *currMap]
         if recursion:
-            self.partTwo(nextMap, destination=destination+1)
+            self.checkMaps(nextMap, destination=destination+1)
         if not self.found:
             self.location = min([self.location, min([min(nums) for nums in nextMap])])
             self.found = True
 
-    def process(self) -> int:
-        for seed in self.seeds:
+    def process(self, partOne: bool = True) -> int:
+        if partOne:
+            for seed in range(len(self.seeds)):
+                self.found = False
+                self.recursive(location=self.seeds[seed])
+            return self.location
+        for seed in range(0, len(self.seeds), 2):
             self.found = False
-            self.checkMaps(location=seed)
+            self.checkMaps([[self.seeds[seed], sum(self.seeds[seed:seed+2])]])
         return self.location
 
 def partOne(data: str) -> int:
     almanac: Almanac = Almanac(data)
     almanac.getMaps()
-    seeds: list = almanac.seeds
-    for seed in range(len(seeds)):
-        almanac.seeds = [seeds[seed]]
-        almanac.process()
+    almanac.process(partOne=True)
     return almanac.location
 
 def partTwo(data: str):
     almanac: Almanac = Almanac(data)
     almanac.getMaps()
-    seeds: list = almanac.seeds
-    for seed in range(0, len(seeds), 2):
-        almanac.found = False
-        almanac.seeds = [[seeds[seed], seeds[seed]+seeds[seed+1]]]
-        almanac.partTwo(almanac.seeds)
+    almanac.process(partOne=False)
     return almanac.location
 
 if __name__ == "__main__":

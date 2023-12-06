@@ -3,35 +3,35 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 04/25          | 08/50           | :star::star::star::star::star::star::star::star: |
+| 05/25          | 10/50           | :star::star::star::star::star::star::star::star::star::star:<br> |
 
-| Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
-| ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
-| [Day 1 - Trebuchet?!][DAY_1]               | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  |  :star:  |  :star:  | :star::star:  |
-| [Day 2 - Cube Conundrum][DAY_2]            | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  |  :star:  |  :star:  | :star::star:  |
-| [Day 3 - Gear Ratios][DAY_3]               | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  |  :star:  |  :star:  | :star::star:  |
-| [Day 4 - Scratchcards][DAY_4]              | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |  :star:  |  :star:  | :star::star:  |
-| [Day 5 - ][DAY_5]                          | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |    |    |   |
-| [Day 6 - ][DAY_6]                          | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |    |    |   |
-| [Day 7 - ][DAY_7]                          | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
-| [Day 8 - ][DAY_8]                          | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
-| [Day 9 - ][DAY_9]                          | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
-| [Day 10 - ][DAY_10]                        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |    |    |   |
-| [Day 11 - ][DAY_11]                        | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |    |    |   |
-| [Day 12 - ][DAY_12]                        | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |    |    |   |
-| [Day 13 - ][DAY_13]                        | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |    |    |   |
-| [Day 14 - ][DAY_14]                        | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |
-| [Day 15 - ][DAY_15]                        | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |    |    |   |
-| [Day 16 - ][DAY_16]                        | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |    |    |   |
-| [Day 17 - ][DAY_17]                        | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
-| [Day 18 - ][DAY_18]                        | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |    |    |   |
-| [Day 19 - ][DAY_19]                        | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |    |    |   |
-| [Day 20 - ][DAY_20]                        | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |    |    |   |
-| [Day 21 - ][DAY_21]                        | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |    |    |   |
-| [Day 22 - ][DAY_22]                        | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
-| [Day 23 - ][DAY_23]                        | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
-| [Day 24 - ][DAY_24]                        | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
-| [Day 25 - ][DAY_25]                        | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] |    |    |   |
+| Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
+| ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
+| [Day 1 - Trebuchet?!][DAY_1]                      | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  |  :star:  |  :star:  | :star::star:  |
+| [Day 2 - Cube Conundrum][DAY_2]                   | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  |  :star:  |  :star:  | :star::star:  |
+| [Day 3 - Gear Ratios][DAY_3]                      | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  |  :star:  |  :star:  | :star::star:  |
+| [Day 4 - Scratchcards][DAY_4]                     | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |  :star:  |  :star:  | :star::star:  |
+| [Day 5 - If You Gave A Seed A Fertilizer][DAY_5]  | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |  :star:  |  :star:  | :star::star:  |
+| [Day 6 - Wait For It][DAY_6]                      | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |    |    |   |
+| [Day 7 - ][DAY_7]                                 | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
+| [Day 8 - ][DAY_8]                                 | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
+| [Day 9 - ][DAY_9]                                 | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
+| [Day 10 - ][DAY_10]                               | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |    |    |   |
+| [Day 11 - ][DAY_11]                               | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |    |    |   |
+| [Day 12 - ][DAY_12]                               | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |    |    |   |
+| [Day 13 - ][DAY_13]                               | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |    |    |   |
+| [Day 14 - ][DAY_14]                               | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |
+| [Day 15 - ][DAY_15]                               | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |    |    |   |
+| [Day 16 - ][DAY_16]                               | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |    |    |   |
+| [Day 17 - ][DAY_17]                               | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
+| [Day 18 - ][DAY_18]                               | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |    |    |   |
+| [Day 19 - ][DAY_19]                               | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |    |    |   |
+| [Day 20 - ][DAY_20]                               | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |    |    |   |
+| [Day 21 - ][DAY_21]                               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |    |    |   |
+| [Day 22 - ][DAY_22]                               | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
+| [Day 23 - ][DAY_23]                               | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
+| [Day 24 - ][DAY_24]                               | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
+| [Day 25 - ][DAY_25]                               | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] |    |    |   |
 
 <!-- Link to the days in Advent of Code -->
 [DAY_1]:  https://adventofcode.com/2023/day/1
@@ -65,8 +65,8 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_2]:  Day%202/Day%202%20-%20Cube%20Conundrum.py
 [SOLUTION_3]:  Day%203/Day%203%20-%20Gear%20Ratios.py
 [SOLUTION_4]:  Day%204/Day%204%20-%20Scratchcards.py
-[SOLUTION_5]:  Day%205/Day%205%20-%20
-[SOLUTION_6]:  Day%206/Day%206%20-%20
+[SOLUTION_5]:  Day%205/Day%205%20-%20If%20You%20Gave%20A%20Seed%20A%20Fertilizer.py
+[SOLUTION_6]:  Day%206/Day%206%20-%20Wait%20For%20It.py
 [SOLUTION_7]:  Day%207/Day%207%20-%20
 [SOLUTION_8]:  Day%208/Day%208%20-%20
 [SOLUTION_9]:  Day%209/Day%209%20-%20
@@ -92,8 +92,8 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_2]:  Day%202/Cube_Conundrum.py
 [PUZZLE_3]:  Day%203/Gear_Ratios.py
 [PUZZLE_4]:  Day%204/Scratchcards.py
-[PUZZLE_5]:  Day%205/
-[PUZZLE_6]:  Day%206/
+[PUZZLE_5]:  Day%205/If_You_Gave_A_Seed_A_Fertilizer.py
+[PUZZLE_6]:  Day%206/Wait_For_It.py
 [PUZZLE_7]:  Day%207/
 [PUZZLE_8]:  Day%208/
 [PUZZLE_9]:  Day%209/
