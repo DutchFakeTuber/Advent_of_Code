@@ -1,5 +1,4 @@
 from Pipe_Maze import TEST, TEST_PART_TWO, DATA
-from math import ceil
 
 def fetchData(data: str) -> list[list[list[str, None]]]:
     return [[[char, None] for char in line] for line in data.splitlines()]
@@ -60,12 +59,12 @@ def partTwo(data: list[list[list[str, None]]]) -> int:
     maze.process()
     coords: list[list[int]] = [[row, col, maze.data[row][col][1]] for row in range(len(maze.data)) for col in range(len(maze.data[row])) if isinstance(maze.data[row][col][1], int)]
     coords.sort(key=lambda x: x[2])
-    c = [*coords, coords[0]]
+    c: list[list[int]] = [*coords, coords[0]]
     # Calculate area with the Shoelace formula
-    area: int = abs(sum([(c[n][0] * c[n+1][1]) - (c[n+1][0] * c[n][1]) for n in range(len(c)-1)])) / 2
+    area: float = abs(sum([(c[n][0] * c[n+1][1]) - (c[n+1][0] * c[n][1]) for n in range(len(c)-1)])) / 2
     # Include Pick's theorem
-    points = abs(area*-1 + (len(c)/2) - 1)
-    return int(points) if int(points) == points else ceil(points)
+    points: float = abs(area*-1 + (len(c)/2) - 1)
+    return int(points) if int(points) == points else int(points) + 1
 
 if __name__ == "__main__":
     print(partOne(fetchData(DATA)))
