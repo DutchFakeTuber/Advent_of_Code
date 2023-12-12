@@ -4,47 +4,45 @@ def fetchData(data: str) -> list[list[str]]:
     return [[col for col in line] for line in data.splitlines()]
 
 class Space:
-    def __init__(self, data: list[list[str]]) -> None:
+    def __init__(self, data: list[list[str]], rate: int=2) -> None:
         self.data: list[list[str]] = data
+        self.rate: int = rate - 1
         self.coords: list[list[int]] = []
-
+        self.ex: list[list[int]] = []
+    
     def expand(self, row: bool=True) -> None:
-        # For part two: expand coordinates instead of the whole map.
-        counter: int = 0
-        while counter < (len(self.data) if row else len(self.data[0])):
-            empty: bool = all([True if char == '.' else False for char in (self.data[counter] if row else [line[counter] for line in self.data])])
-            if empty:
-                if row:
-                    self.data = self.data[:counter+1] + self.data[counter:]
-                else:
-                    for r in range(len(self.data)):
-                        self.data[r] = self.data[r][:counter+1] + self.data[r][counter:]
-            counter += 1 if not empty else 2
+        expansion: int = 0
+        for rc in range(len(self.data) if row else len(self.data[0])):
+            empty: bool = all([True if char == '.' else False for char in (self.data[rc] if row else [line[rc] for line in self.data])])
+            expansion += 0 if not empty else self.rate
+            if row:
+                self.ex.append([rc+expansion])
+            else:
+                self.ex[rc].append(rc+expansion)
         if row:
             self.expand(row=False)
-        self.space: list[list[str]] = self.data
 
-    def _manhattanDistance(self) -> None:
+    def manhattanDistance(self) -> None:
         self.mandist: set = set()
         for num, c in enumerate(self.coords):
             for _num, _c in enumerate(self.coords):
                 if num == _num: continue
-                self.mandist.add(tuple([c if num < _num else _c, _c if num < _num else c, abs(c[0]-_c[0]) + abs(c[1]-_c[1])]))
-        self.mandist = list(self.mandist)
+                self.mandist.add(tuple([num if num < _num else _num, _num if num < _num else num, abs(c[0]-_c[0]) + abs(c[1]-_c[1])]))
+        self.mandist: list = list(self.mandist)
 
     def coordinates(self) -> None:
-        self.coords: list[list[int]] = [tuple([row, col]) for row in range(len(self.space)) for col, char in enumerate(self.space[row]) if char == '#']
-        self._manhattanDistance()
+        self.coords: list[list[int]] = [[row, col] for row in range(len(self.data)) for col, char in enumerate(self.data[row]) if char == '#']
+        self.expand(row=True)
+        self.coords: list[list[int]] = [[self.ex[row][0], col] for row, col in self.coords]
+        self.coords: list[list[int]] = [[row, self.ex[col][1]] for row, col in self.coords]
 
-def partOne(data: list[list[str]]) -> int:
-    space: Space = Space(data)
-    space.expand()
+def parts(data: list[list[str]], rate=2) -> int:
+    space: Space = Space(data, rate=rate)
     space.coordinates()
+    space.manhattanDistance()
     return sum(length[2] for length in space.mandist)
-
-def partTwo(data: list[list[str]]) -> int: ...
 
 if __name__ == "__main__":
     data: list[list[str]] = fetchData(DATA)
-    print(partOne(data))
-    print(partTwo(data))
+    print(parts(data, rate=2))
+    print(parts(data, rate=1_000_000))
