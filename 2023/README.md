@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 12/25          | 24/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
+| 13/25          | 26/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -19,7 +19,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 | [Day 10 - Pipe Maze][DAY_10]                      | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |  :star:  |  :star:  | :star::star:  |
 | [Day 11 - Cosmic Expansion][DAY_11]               | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |  :star:  |  :star:  | :star::star:  |
 | [Day 12 - Hot Springs][DAY_12]                    | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |  :star:  |  :star:  | :star::star:  |
-| [Day 13 - ][DAY_13]                               | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |    |    |   |
+| [Day 13 - Point of Incidence][DAY_13]             | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |  :star:  |  :star:  | :star::star:  |
 | [Day 14 - ][DAY_14]                               | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |
 | [Day 15 - ][DAY_15]                               | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |    |    |   |
 | [Day 16 - ][DAY_16]                               | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |    |    |   |
@@ -73,7 +73,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_10]: Day%2010/Day%2010%20-%20Pipe%20Maze.py
 [SOLUTION_11]: Day%2011/Day%2011%20-%20Cosmic%20Expansion.py
 [SOLUTION_12]: Day%2012/Day%2012%20-%20Hot%20Springs.py
-[SOLUTION_13]: Day%2013/Day%2013%20-%20
+[SOLUTION_13]: Day%2013/Day%2013%20-%20Point%20of%20Incidence.py
 [SOLUTION_14]: Day%2014/Day%2014%20-%20
 [SOLUTION_15]: Day%2015/Day%2015%20-%20
 [SOLUTION_16]: Day%2016/Day%2016%20-%20
@@ -100,7 +100,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_10]: Day%2010/Pipe_Maze.py
 [PUZZLE_11]: Day%2011/Cosmic_Expansion.py
 [PUZZLE_12]: Day%2012/Hot_Springs.py
-[PUZZLE_13]: Day%2013/
+[PUZZLE_13]: Day%2013/Point_of_Incidence.py
 [PUZZLE_14]: Day%2014/
 [PUZZLE_15]: Day%2015/
 [PUZZLE_16]: Day%2016/
