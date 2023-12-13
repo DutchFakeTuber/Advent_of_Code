@@ -13,6 +13,8 @@ def fetchData(data: str) -> list[list[str, str, str]]:
 
 def checkAxis(check: tuple[str, str, int, bool]) -> bool:
     original, mirror, pos, row = check
+    # Is original[:pos], original[pos::-1] possible for rows?
+    # This could be easier to work with.
     if row:
         o, m = len(original[:pos]), len(mirror[:-pos])
         if o > m:
