@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 13/25          | 26/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 14/25          | 28/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -20,7 +20,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 | [Day 11 - Cosmic Expansion][DAY_11]               | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |  :star:  |  :star:  | :star::star:  |
 | [Day 12 - Hot Springs][DAY_12]                    | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |  :star:  |  :star:  | :star::star:  |
 | [Day 13 - Point of Incidence][DAY_13]             | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |  :star:  |  :star:  | :star::star:  |
-| [Day 14 - ][DAY_14]                               | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |
+| [Day 14 - Parabolic Reflector Dish][DAY_14]       | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |  :star:  |  :star:  | :star::star:  |
 | [Day 15 - ][DAY_15]                               | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |    |    |   |
 | [Day 16 - ][DAY_16]                               | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |    |    |   |
 | [Day 17 - ][DAY_17]                               | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
@@ -74,7 +74,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_11]: Day%2011/Day%2011%20-%20Cosmic%20Expansion.py
 [SOLUTION_12]: Day%2012/Day%2012%20-%20Hot%20Springs.py
 [SOLUTION_13]: Day%2013/Day%2013%20-%20Point%20of%20Incidence.py
-[SOLUTION_14]: Day%2014/Day%2014%20-%20
+[SOLUTION_14]: Day%2014/Day%2014%20-%20Parabolic%20Reflector%20Dish.py
 [SOLUTION_15]: Day%2015/Day%2015%20-%20
 [SOLUTION_16]: Day%2016/Day%2016%20-%20
 [SOLUTION_17]: Day%2017/Day%2017%20-%20
@@ -101,7 +101,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_11]: Day%2011/Cosmic_Expansion.py
 [PUZZLE_12]: Day%2012/Hot_Springs.py
 [PUZZLE_13]: Day%2013/Point_of_Incidence.py
-[PUZZLE_14]: Day%2014/
+[PUZZLE_14]: Day%2014/Parabolic_Reflector_Dish.py
 [PUZZLE_15]: Day%2015/
 [PUZZLE_16]: Day%2016/
 [PUZZLE_17]: Day%2017/
