@@ -32,7 +32,7 @@ def parts(patterns: list[list[str, str, str]]):
                 broken += num
         for num in range(len(patterns[patt][0])-1, 0, -1):
             length: int = len(patterns[patt][0][0])
-            results = [checkAxis(''.join(x[p] for x in patterns[patt][0]), ''.join(x[p] for x in patterns[patt][2]), num) for p in range(length)]
+            results = [checkAxis(''.join(map(lambda x: x[p], patterns[patt][0])), ''.join(map(lambda x: x[p], patterns[patt][2])), num) for p in range(length)]
             if all(x[0] for x in results):
                 mirror += num * 100
             if sum(x[1] for x in results) == 1:
