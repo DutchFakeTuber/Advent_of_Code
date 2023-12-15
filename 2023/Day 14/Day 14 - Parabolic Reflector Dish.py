@@ -1,5 +1,6 @@
 from itertools import count
 from Parabolic_Reflector_Dish import TEST, DATA
+from time import perf_counter
 
 def fetchData(data: str) -> tuple[str]:
     return tuple(data.splitlines())
@@ -13,7 +14,7 @@ def tilt(data: tuple[str], reverseTilt: bool) -> tuple[str]:
     tilted: list = []
     for row in data:
         rowTilt = [sorted(fragment, reverse=reverseTilt) for fragment in row.split('#')]
-        tilted.append('#'.join(''.join(r) for r in rowTilt))
+        tilted.append('#'.join(map(''.join, rowTilt)))
     return tuple(tilted)
 
 def partOne(data: tuple[str]) -> int:
@@ -39,5 +40,7 @@ def partTwo(data: tuple[str]) -> int:
 
 if __name__ == "__main__":
     data: list[str] = fetchData(DATA)
+    start = perf_counter()
     print(partOne(data))
     print(partTwo(data))
+    print(perf_counter()-start)
