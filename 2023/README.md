@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 16/25          | 32/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
+| 17/25          | 34/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -23,7 +23,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 | [Day 14 - Parabolic Reflector Dish][DAY_14]       | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |  :star:  |  :star:  | :star::star:  |
 | [Day 15 - Lens Library][DAY_15]                   | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |  :star:  |  :star:  | :star::star:  |
 | [Day 16 - The Floor Will Be Lava][DAY_16]         | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |  :star:  |  :star:  | :star::star:  |
-| [Day 17 - ][DAY_17]                               | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
+| [Day 17 - Clumsy Crucible][DAY_17]                | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |  :star:  |  :star:  | :star::star:  |
 | [Day 18 - ][DAY_18]                               | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |    |    |   |
 | [Day 19 - ][DAY_19]                               | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |    |    |   |
 | [Day 20 - ][DAY_20]                               | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |    |    |   |
@@ -77,7 +77,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_14]: Day%2014/Day%2014%20-%20Parabolic%20Reflector%20Dish.py
 [SOLUTION_15]: Day%2015/Day%2015%20-%20Lens%20Library.py
 [SOLUTION_16]: Day%2016/Day%2016%20-%20The%20Floor%20Will%20Be%20Lava.py
-[SOLUTION_17]: Day%2017/Day%2017%20-%20
+[SOLUTION_17]: Day%2017/Day%2017%20-%20Clumsy%20Crucible.py
 [SOLUTION_18]: Day%2018/Day%2018%20-%20
 [SOLUTION_19]: Day%2019/Day%2019%20-%20
 [SOLUTION_20]: Day%2020/Day%2020%20-%20
@@ -104,7 +104,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_14]: Day%2014/Parabolic_Reflector_Dish.py
 [PUZZLE_15]: Day%2015/Lens_Library.py
 [PUZZLE_16]: Day%2016/The_Floor_Will_Be_Lava.py
-[PUZZLE_17]: Day%2017/
+[PUZZLE_17]: Day%2017/Clumsy_Crucible.py
 [PUZZLE_18]: Day%2018/
 [PUZZLE_19]: Day%2019/
 [PUZZLE_20]: Day%2020/
