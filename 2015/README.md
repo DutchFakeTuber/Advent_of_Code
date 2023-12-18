@@ -1,6 +1,8 @@
 # Advent of Code 2015
 This is my input regarding the Advent of Code 2015 challenge.
 
+<!-- Mark done as :star: -->
+
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
 | 8/25           | 16/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |

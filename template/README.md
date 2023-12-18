@@ -1,5 +1,5 @@
-# Advent of Code 2022
-This is my input regarding the Advent of Code ... challenge.
+# Advent of Code 202x
+This is my input regarding the Advent of Code 202x challenge.
 
 <!-- Mark done as :star: -->
 

@@ -1,5 +1,7 @@
-# Advent of Code 2022
+# Advent of Code 2023
 This is my input regarding the Advent of Code 2023 challenge.
+
+<!-- Mark done as :star: -->
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
