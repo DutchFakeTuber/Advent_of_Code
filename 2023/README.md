@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 18/25          | 36/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 19/25          | 38/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -27,7 +27,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 | [Day 16 - The Floor Will Be Lava][DAY_16]         | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |  :star:  |  :star:  | :star::star:  |
 | [Day 17 - Clumsy Crucible][DAY_17]                | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |  :star:  |  :star:  | :star::star:  |
 | [Day 18 - Lavaduct Lagoon][DAY_18]                | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |  :star:  |  :star:  | :star::star:  |
-| [Day 19 - ][DAY_19]                               | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |    |    |   |
+| [Day 19 - Aplenty][DAY_19]                        | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |  :star:  |  :star:  | :star::star:  |
 | [Day 20 - ][DAY_20]                               | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |    |    |   |
 | [Day 21 - ][DAY_21]                               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |    |    |   |
 | [Day 22 - ][DAY_22]                               | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
@@ -81,7 +81,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_16]: Day%2016/Day%2016%20-%20The%20Floor%20Will%20Be%20Lava.py
 [SOLUTION_17]: Day%2017/Day%2017%20-%20Clumsy%20Crucible.py
 [SOLUTION_18]: Day%2018/Day%2018%20-%20Lavaduct%20Lagoon.py
-[SOLUTION_19]: Day%2019/Day%2019%20-%20
+[SOLUTION_19]: Day%2019/Day%2019%20-%20Aplenty.py
 [SOLUTION_20]: Day%2020/Day%2020%20-%20
 [SOLUTION_21]: Day%2022/Day%2021%20-%20
 [SOLUTION_22]: Day%2022/Day%2022%20-%20
@@ -108,7 +108,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_16]: Day%2016/The_Floor_Will_Be_Lava.py
 [PUZZLE_17]: Day%2017/Clumsy_Crucible.py
 [PUZZLE_18]: Day%2018/Lavaduct_Lagoon.py
-[PUZZLE_19]: Day%2019/
+[PUZZLE_19]: Day%2019/Aplenty.py
 [PUZZLE_20]: Day%2020/
 [PUZZLE_21]: Day%2021/
 [PUZZLE_22]: Day%2022/
