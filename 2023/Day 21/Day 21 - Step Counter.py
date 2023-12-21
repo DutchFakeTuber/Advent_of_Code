@@ -51,13 +51,13 @@ def partTwo(plots: list[str], steps: int) -> int:
     # return garden.walk()
     """
     Using the statements above, plots found at 65, 196, 327: 3832, 33967, 94056
-    Length of the field is 131, total plots occupied needs to be: 26501365
+    Length of the field is 131, total steps taken is: 26501365
     
     """
     one, two, three = 3832, 33967, 94056
-    plots: int = 26501365
-    steps: int = plots // 131
-    return one + (two-one)*steps + (steps*(steps-1)//2)*((three-two)-(two-one))
+    steps: int = 26501365
+    fields: int = plots // 131
+    return one + (two-one)*fields + (fields*(fields-1)//2)*((three-two)-(two-one))
 
 if __name__ == "__main__":
     plots: list[str] = fetchData(DATA)
