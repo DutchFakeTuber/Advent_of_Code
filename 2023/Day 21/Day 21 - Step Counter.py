@@ -28,16 +28,11 @@ class GardenPlots:
                 if (coordinate[0]+row, coordinate[1]+col) not in self.current:
                     self.pending.add((coordinate[0]+row, coordinate[1]+col))
     
-    def walk(self, show: bool=False, duplicate: int=0) -> None:
+    def walk(self) -> None:
         counter: int = 0
         while counter != self.steps:
-            if show:
-                row: list = [i[0] for i in self.current]
-                col: list = [i[1] for i in self.current]
-                if (max(row)-min(row)) % (len(self.plots)//duplicate) == 0:
-                    print(f"{counter=} - {len(self.current)} - {max(row)-max(row)}")
-                # print(f"{counter=} - Row: {min(row)}, {max(row)}; Col: {min(col)}, {max(col)}; Dist: {max(row)-min(row)}, {max(col)-min(col)}")
-                # print(counter, len(self.current))
+            if counter in [num*131+65 for num in range(3)]:
+                print(f"{counter=} - {len(self.current)}")
             self.pending: set = set()
             for coordinate in self.current:
                 self.boulder(coordinate)
@@ -45,18 +40,27 @@ class GardenPlots:
             counter += 1
         return len(self.current)
 
-def partOne(plots: list[str], steps=64) -> int:
+def partOne(plots: list[str], steps: int) -> int:
     coordinate: tuple[int] = [(r, c) for r, row in enumerate(plots) for c, col in enumerate(row) if col == 'S'][0]
     garden: GardenPlots = GardenPlots(plots, coordinate, steps=steps)
     return garden.walk()
 
-def partTwo(plots: list[str], steps: int=1000) -> int:
-    coordinate: tuple[int] = [(r, c) for r, row in enumerate(plots) for c, col in enumerate(row) if col == 'S'][0]
-    garden: GardenPlots = GardenPlots(plots, coordinate, steps=steps)
-    return garden.walk(True, duplicate=5)
+def partTwo(plots: list[str], steps: int) -> int:
+    # coordinate: tuple[int] = [(r, c) for r, row in enumerate(plots) for c, col in enumerate(row) if col == 'S'][0]
+    # garden: GardenPlots = GardenPlots(plots, coordinate, steps=steps)
+    # return garden.walk()
+    """
+    Using the statements above, plots found at 65, 196, 327: 3832, 33967, 94056
+    Length of the field is 131, total plots occupied needs to be: 26501365
+    
+    """
+    one, two, three = 3832, 33967, 94056
+    plots: int = 26501365
+    steps: int = plots // 131
+    return one + (two-one)*steps + (steps*(steps-1)//2)*((three-two)-(two-one))
 
 if __name__ == "__main__":
     plots: list[str] = fetchData(DATA)
     print(partOne(plots, steps=64))
-    plots: list[str] = fetchData(DATA, 5)
-    print(partTwo(plots, steps=300))
+    plots: list[str] = fetchData(DATA, 7)
+    print(partTwo(plots, steps=330))

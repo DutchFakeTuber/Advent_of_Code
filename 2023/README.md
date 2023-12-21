@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 20/25          | 40/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br> |
+| 21/25          | 42/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -29,7 +29,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 | [Day 18 - Lavaduct Lagoon][DAY_18]                | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |  :star:  |  :star:  | :star::star:  |
 | [Day 19 - Aplenty][DAY_19]                        | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |  :star:  |  :star:  | :star::star:  |
 | [Day 20 - Pulse Propagation][DAY_20]              | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |  :star:  |  :star:  | :star::star:  |
-| [Day 21 - ][DAY_21]                               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |    |    |   |
+| [Day 21 - Step Counter][DAY_21]                   | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |  :star:  |  :star:  | :star::star:  |
 | [Day 22 - ][DAY_22]                               | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
 | [Day 23 - ][DAY_23]                               | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
 | [Day 24 - ][DAY_24]                               | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
@@ -83,7 +83,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_18]: Day%2018/Day%2018%20-%20Lavaduct%20Lagoon.py
 [SOLUTION_19]: Day%2019/Day%2019%20-%20Aplenty.py
 [SOLUTION_20]: Day%2020/Day%2020%20-%20Pulse%20Propagation.py
-[SOLUTION_21]: Day%2022/Day%2021%20-%20
+[SOLUTION_21]: Day%2022/Day%2021%20-%20Step%20Counter.py
 [SOLUTION_22]: Day%2022/Day%2022%20-%20
 [SOLUTION_23]: Day%2023/Day%2023%20-%20
 [SOLUTION_24]: Day%2024/Day%2024%20-%20
@@ -110,7 +110,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_18]: Day%2018/Lavaduct_Lagoon.py
 [PUZZLE_19]: Day%2019/Aplenty.py
 [PUZZLE_20]: Day%2020/Pulse_Propagation.py
-[PUZZLE_21]: Day%2021/
+[PUZZLE_21]: Day%2021/Step_Counter.py
 [PUZZLE_22]: Day%2022/
 [PUZZLE_23]: Day%2023/
 [PUZZLE_24]: Day%2024/
