@@ -83,7 +83,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_18]: Day%2018/Day%2018%20-%20Lavaduct%20Lagoon.py
 [SOLUTION_19]: Day%2019/Day%2019%20-%20Aplenty.py
 [SOLUTION_20]: Day%2020/Day%2020%20-%20Pulse%20Propagation.py
-[SOLUTION_21]: Day%2022/Day%2021%20-%20Step%20Counter.py
+[SOLUTION_21]: Day%2021/Day%2021%20-%20Step%20Counter.py
 [SOLUTION_22]: Day%2022/Day%2022%20-%20
 [SOLUTION_23]: Day%2023/Day%2023%20-%20
 [SOLUTION_24]: Day%2024/Day%2024%20-%20
