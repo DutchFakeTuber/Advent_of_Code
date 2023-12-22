@@ -56,7 +56,7 @@ def partTwo(plots: list[str], steps: int) -> int:
     """
     one, two, three = 3832, 33967, 94056
     steps: int = 26501365
-    fields: int = plots // 131
+    fields: int = steps // 131
     return one + (two-one)*fields + (fields*(fields-1)//2)*((three-two)-(two-one))
 
 if __name__ == "__main__":
