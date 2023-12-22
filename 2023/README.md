@@ -5,35 +5,35 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 21/25          | 42/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
+| 22/25          | 44/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
-| Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
-| ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
-| [Day 1 - Trebuchet?!][DAY_1]                      | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  |  :star:  |  :star:  | :star::star:  |
-| [Day 2 - Cube Conundrum][DAY_2]                   | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  |  :star:  |  :star:  | :star::star:  |
-| [Day 3 - Gear Ratios][DAY_3]                      | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  |  :star:  |  :star:  | :star::star:  |
-| [Day 4 - Scratchcards][DAY_4]                     | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |  :star:  |  :star:  | :star::star:  |
-| [Day 5 - If You Gave A Seed A Fertilizer][DAY_5]  | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |  :star:  |  :star:  | :star::star:  |
-| [Day 6 - Wait For It][DAY_6]                      | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |  :star:  |  :star:  | :star::star:  |
-| [Day 7 - Camel Cards][DAY_7]                      | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |  :star:  |  :star:  | :star::star:  |
-| [Day 8 - Haunted Wasteland][DAY_8]                | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |  :star:  |  :star:  | :star::star:  |
-| [Day 9 - Mirage Maintenance][DAY_9]               | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |  :star:  |  :star:  | :star::star:  |
-| [Day 10 - Pipe Maze][DAY_10]                      | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |  :star:  |  :star:  | :star::star:  |
-| [Day 11 - Cosmic Expansion][DAY_11]               | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |  :star:  |  :star:  | :star::star:  |
-| [Day 12 - Hot Springs][DAY_12]                    | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |  :star:  |  :star:  | :star::star:  |
-| [Day 13 - Point of Incidence][DAY_13]             | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |  :star:  |  :star:  | :star::star:  |
-| [Day 14 - Parabolic Reflector Dish][DAY_14]       | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |  :star:  |  :star:  | :star::star:  |
-| [Day 15 - Lens Library][DAY_15]                   | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |  :star:  |  :star:  | :star::star:  |
-| [Day 16 - The Floor Will Be Lava][DAY_16]         | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |  :star:  |  :star:  | :star::star:  |
-| [Day 17 - Clumsy Crucible][DAY_17]                | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |  :star:  |  :star:  | :star::star:  |
-| [Day 18 - Lavaduct Lagoon][DAY_18]                | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |  :star:  |  :star:  | :star::star:  |
-| [Day 19 - Aplenty][DAY_19]                        | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |  :star:  |  :star:  | :star::star:  |
-| [Day 20 - Pulse Propagation][DAY_20]              | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |  :star:  |  :star:  | :star::star:  |
-| [Day 21 - Step Counter][DAY_21]                   | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |  :star:  |  :star:  | :star::star:  |
-| [Day 22 - ][DAY_22]                               | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
-| [Day 23 - ][DAY_23]                               | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
-| [Day 24 - ][DAY_24]                               | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
-| [Day 25 - ][DAY_25]                               | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] |    |    |   |
+| Day                                              | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
+| ------------------------------------------------ | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
+| [Day 1 - Trebuchet?!][DAY_1]                     | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  |  :star:  |  :star:  | :star::star:  |
+| [Day 2 - Cube Conundrum][DAY_2]                  | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  |  :star:  |  :star:  | :star::star:  |
+| [Day 3 - Gear Ratios][DAY_3]                     | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  |  :star:  |  :star:  | :star::star:  |
+| [Day 4 - Scratchcards][DAY_4]                    | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |  :star:  |  :star:  | :star::star:  |
+| [Day 5 - If You Gave A Seed A Fertilizer][DAY_5] | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |  :star:  |  :star:  | :star::star:  |
+| [Day 6 - Wait For It][DAY_6]                     | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |  :star:  |  :star:  | :star::star:  |
+| [Day 7 - Camel Cards][DAY_7]                     | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |  :star:  |  :star:  | :star::star:  |
+| [Day 8 - Haunted Wasteland][DAY_8]               | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |  :star:  |  :star:  | :star::star:  |
+| [Day 9 - Mirage Maintenance][DAY_9]              | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |  :star:  |  :star:  | :star::star:  |
+| [Day 10 - Pipe Maze][DAY_10]                     | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |  :star:  |  :star:  | :star::star:  |
+| [Day 11 - Cosmic Expansion][DAY_11]              | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |  :star:  |  :star:  | :star::star:  |
+| [Day 12 - Hot Springs][DAY_12]                   | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |  :star:  |  :star:  | :star::star:  |
+| [Day 13 - Point of Incidence][DAY_13]            | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |  :star:  |  :star:  | :star::star:  |
+| [Day 14 - Parabolic Reflector Dish][DAY_14]      | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |  :star:  |  :star:  | :star::star:  |
+| [Day 15 - Lens Library][DAY_15]                  | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |  :star:  |  :star:  | :star::star:  |
+| [Day 16 - The Floor Will Be Lava][DAY_16]        | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |  :star:  |  :star:  | :star::star:  |
+| [Day 17 - Clumsy Crucible][DAY_17]               | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |  :star:  |  :star:  | :star::star:  |
+| [Day 18 - Lavaduct Lagoon][DAY_18]               | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |  :star:  |  :star:  | :star::star:  |
+| [Day 19 - Aplenty][DAY_19]                       | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |  :star:  |  :star:  | :star::star:  |
+| [Day 20 - Pulse Propagation][DAY_20]             | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |  :star:  |  :star:  | :star::star:  |
+| [Day 21 - Step Counter][DAY_21]                  | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |  :star:  |  :star:  | :star::star:  |
+| [Day 22 - Sand Slabs][DAY_22]                    | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |  :star:  |  :star:  | :star::star:  |
+| [Day 23 - ][DAY_23]                              | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
+| [Day 24 - ][DAY_24]                              | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
+| [Day 25 - ][DAY_25]                              | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] |    |    |   |
 
 <!-- Link to the days in Advent of Code -->
 [DAY_1]:  https://adventofcode.com/2023/day/1
@@ -84,7 +84,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_19]: Day%2019/Day%2019%20-%20Aplenty.py
 [SOLUTION_20]: Day%2020/Day%2020%20-%20Pulse%20Propagation.py
 [SOLUTION_21]: Day%2021/Day%2021%20-%20Step%20Counter.py
-[SOLUTION_22]: Day%2022/Day%2022%20-%20
+[SOLUTION_22]: Day%2022/Day%2022%20-%20Sand%20Slabs.py
 [SOLUTION_23]: Day%2023/Day%2023%20-%20
 [SOLUTION_24]: Day%2024/Day%2024%20-%20
 [SOLUTION_25]: Day%2025/Day%2025%20-%20
@@ -111,7 +111,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_19]: Day%2019/Aplenty.py
 [PUZZLE_20]: Day%2020/Pulse_Propagation.py
 [PUZZLE_21]: Day%2021/Step_Counter.py
-[PUZZLE_22]: Day%2022/
+[PUZZLE_22]: Day%2022/Sand_Slabs.py
 [PUZZLE_23]: Day%2023/
 [PUZZLE_24]: Day%2024/
 [PUZZLE_25]: Day%2025/
