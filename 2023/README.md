@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 23/25          | 46/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 24/25          | 48/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
 
 | Day                                              | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------ | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -32,7 +32,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 | [Day 21 - Step Counter][DAY_21]                  | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |  :star:  |  :star:  | :star::star:  |
 | [Day 22 - Sand Slabs][DAY_22]                    | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |  :star:  |  :star:  | :star::star:  |
 | [Day 23 - A Long Walk][DAY_23]                   | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |  :star:  |  :star:  | :star::star:  |
-| [Day 24 - ][DAY_24]                              | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
+| [Day 24 - ][DAY_24]                              | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |  :star:  |  :star:  | :star::star:  |
 | [Day 25 - ][DAY_25]                              | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] |    |    |   |
 
 <!-- Link to the days in Advent of Code -->
@@ -86,7 +86,7 @@ This is my input regarding the Advent of Code 2023 challenge.
 [SOLUTION_21]: Day%2021/Day%2021%20-%20Step%20Counter.py
 [SOLUTION_22]: Day%2022/Day%2022%20-%20Sand%20Slabs.py
 [SOLUTION_23]: Day%2023/Day%2023%20-%20A%20Long%20Walk.py
-[SOLUTION_24]: Day%2024/Day%2024%20-%20
+[SOLUTION_24]: Day%2024/Day%2024%20-%20Never%20Tell%20Me%20The%20Odds.py
 [SOLUTION_25]: Day%2025/Day%2025%20-%20
 
 <!-- Link to the local Puzzle Input File -->
@@ -113,5 +113,5 @@ This is my input regarding the Advent of Code 2023 challenge.
 [PUZZLE_21]: Day%2021/Step_Counter.py
 [PUZZLE_22]: Day%2022/Sand_Slabs.py
 [PUZZLE_23]: Day%2023/A_Long_Walk.py
-[PUZZLE_24]: Day%2024/
+[PUZZLE_24]: Day%2024/Never_Tell_Me_The_Odds.py
 [PUZZLE_25]: Day%2025/
