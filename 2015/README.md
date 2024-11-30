@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 8/25           | 16/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 11/25          | 22/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
 
 | Day                                                     | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -17,9 +17,9 @@ This is my input regarding the Advent of Code 2015 challenge.
 | [Day 6 - Probably a Fire Hazard][DAY_6]                 | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
 | [Day 7 - Some Assembly Required][DAY_7]                 | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
 | [Day 8 - Matchsticks][DAY_8]                            | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
-| [Day 9 - All in a Single Night][DAY_9]                  | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
-| [Day 10 - Elves Look, Elves Say][DAY_10]                | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |    |    |   |
-| [Day 11 - Corporate Policy][DAY_11]                     | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |    |    |   |
+| [Day 9 - All in a Single Night][DAY_9]                  | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
+| [Day 10 - Elves Look, Elves Say][DAY_10]                | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
+| [Day 11 - Corporate Policy][DAY_11]                     | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
 | [Day 12 - JSAbacusFramework.io][DAY_12]                 | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |    |    |   |
 | [Day 13 - Knights of the Dinner Table][DAY_13]          | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |    |    |   |
 | [Day 14 - Reindeer Olympics][DAY_14]                    | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |

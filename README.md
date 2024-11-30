@@ -12,4 +12,4 @@ Advent of Code spanning over multiple years. First started with the 2021 advent 
 | [2018](2018/README.md) | 00/25          | 00/50           | :star:x00       |
 | [2017](2017/README.md) | 00/25          | 00/50           | :star:x00       |
 | [2016](2016/README.md) | 00/25          | 00/50           | :star:x00       |
-| [2015](2015/README.md) | 08/25          | 16/50           | :star:x16       |
+| [2015](2015/README.md) | 11/25          | 22/50           | :star:x22       |
