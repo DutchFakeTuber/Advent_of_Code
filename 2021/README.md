@@ -3,7 +3,7 @@ This is my input regarding the Advent of Code 2021 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 22/25          | 44/50           | :star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star::star::star::star::star::star::star:<br />:star::star::star::star: |
+| 25/25          | 50/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star: |
 
 | Day                                        | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ----------------------------------------   | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -29,9 +29,9 @@ This is my input regarding the Advent of Code 2021 challenge.
 | [Day 20 - Trench Map][DAY_20]              | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
 | [Day 21 - Dirac Dice][DAY_21]              | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
 | [Day 22 - Reactor Reboot][DAY_22]          | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] | :star:   | :star:   | :star::star:  |
-| [Day 23][DAY_23]                           | [][PUZZLE_23] | [][SOLUTION_23] |    |    |   |
+| [Day 23 - Amphipod][DAY_23]                | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] | :star:   | :star:   | :star::star:  |
 | [Day 24 - Arithmetic Logic Unit][DAY_24]   | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] | :star:   | :star:   | :star::star:  |
-| [Day 25][DAY_25]                           | [][PUZZLE_25] | [][SOLUTION_25] |    |    |   |
+| [Day 25 - Sea Cucumber][DAY_25]            | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] | :star:   | :star:   | :star::star:  |
 
 <!-- Link to the days in Advent of Code -->
 [DAY_1]:  https://adventofcode.com/2021/day/1
@@ -83,9 +83,9 @@ This is my input regarding the Advent of Code 2021 challenge.
 [SOLUTION_20]: Day%2020/Day%2020%20-%20Trench%20Map.py
 [SOLUTION_21]: Day%2021/Day%2021%20-%20Dirac%20Dice.py
 [SOLUTION_22]: Day%2022/Day%2022%20-%20Reactor%20Reboot.py
-[SOLUTION_23]: Day%2023/Day%2023%20-%20
+[SOLUTION_23]: Day%2023/Day%2023%20-%20Amphipod.py
 [SOLUTION_24]: Day%2024/Day%2024%20-%20Arithmetic%20Logic%20Unit.py
-[SOLUTION_25]: Day%2025/Day%2025%20-%20
+[SOLUTION_25]: Day%2025/Day%2025%20-%20Sea%20Cucumber.py
 
 <!-- Link to the local Puzzle Input File -->
 [PUZZLE_1]:  Day%201/Sonar_Sweep.py
@@ -110,6 +110,6 @@ This is my input regarding the Advent of Code 2021 challenge.
 [PUZZLE_20]: Day%2020/Trench_Map.py
 [PUZZLE_21]: Day%2021/Dirac_Dice.py
 [PUZZLE_22]: Day%2022/Reactor_Reboot.py
-[PUZZLE_23]: Day%2023/
+[PUZZLE_23]: Day%2023/Amphipod.py
 [PUZZLE_24]: Day%2024/Arithmetic_Logic_Unit.py
-[PUZZLE_25]: Day%2025/
+[PUZZLE_25]: Day%2025/Sea_Cucumber.py
