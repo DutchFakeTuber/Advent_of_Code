@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 11/25          | 22/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
+| 12/25          | 24/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                                     | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -20,7 +20,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 | [Day 9 - All in a Single Night][DAY_9]                  | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
 | [Day 10 - Elves Look, Elves Say][DAY_10]                | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
 | [Day 11 - Corporate Policy][DAY_11]                     | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
-| [Day 12 - JSAbacusFramework.io][DAY_12]                 | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |    |    |   |
+| [Day 12 - JSAbacusFramework.io][DAY_12]                 | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
 | [Day 13 - Knights of the Dinner Table][DAY_13]          | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |    |    |   |
 | [Day 14 - Reindeer Olympics][DAY_14]                    | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |
 | [Day 15 - Science for Hungry People][DAY_15]            | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |    |    |   |
@@ -74,7 +74,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 [SOLUTION_9]:  Day%209/Day%209%20-%20All%20in%20a%20Single%20Night.py
 [SOLUTION_10]: Day%2010/Day%2010%20-%20Elves%20Look,%20Elves%20Say.py
 [SOLUTION_11]: Day%2011/Day%2011%20-%20Corporate%20Policy.py
-[SOLUTION_12]: Day%2012/Day%2012%20-%20JSAbacusFramework.io.py
+[SOLUTION_12]: Day%2012/Day%2012%20-%20JSAbacusFramework_io.py
 [SOLUTION_13]: Day%2013/Day%2013%20-%20Knights%20of%20the%20Dinner%20Table.py
 [SOLUTION_14]: Day%2014/Day%2014%20-%20Reindeer%20Olympics.py
 [SOLUTION_15]: Day%2015/Day%2015%20-%20Science%20for%20Hungry%20People.py
