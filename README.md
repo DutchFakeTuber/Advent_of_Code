@@ -6,7 +6,7 @@ Advent of Code spanning over multiple years. First started with the 2021 advent 
 | [2024](2024/README.md) | 00/25          | 00/50           | :star:x00       |
 | [2023](2023/README.md) | 25/25          | 50/50           | :star:x50       |
 | [2022](2022/README.md) | 25/25          | 50/50           | :star:x50       |
-| [2021](2021/README.md) | 23/25          | 50/50           | :star:x46       |
+| [2021](2021/README.md) | 25/25          | 50/50           | :star:x50       |
 | [2020](2020/README.md) | 00/25          | 00/50           | :star:x00       |
 | [2019](2019/README.md) | 00/25          | 00/50           | :star:x00       |
 | [2018](2018/README.md) | 00/25          | 00/50           | :star:x00       |
