@@ -5,11 +5,11 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 00/25          | 00/50           |                   |
+| 01/25          | 02/50           | :star::star:                  |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
-| [Day 1 - ][DAY_1]                                 | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  |    |    |   |
+| [Day 1 - Historian Hysteria][DAY_1]               | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  | :star:   | :star:   | :star::star:  |
 | [Day 2 - ][DAY_2]                                 | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  |    |    |   |
 | [Day 3 - ][DAY_3]                                 | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  |    |    |   |
 | [Day 4 - ][DAY_4]                                 | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |    |    |   |
@@ -63,7 +63,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 [DAY_25]: https://adventofcode.com/2024/day/25
 
 <!-- Link to the local Solution File -->
-[SOLUTION_1]:  Day%201/Day%201%20-%20
+[SOLUTION_1]:  Day%201/Day%201%20-%20Historian%20Hysteria.py
 [SOLUTION_2]:  Day%202/Day%202%20-%20
 [SOLUTION_3]:  Day%203/Day%203%20-%20
 [SOLUTION_4]:  Day%204/Day%204%20-%20
@@ -90,7 +90,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 [SOLUTION_25]: Day%2025/Day%2025%20-%20
 
 <!-- Link to the local Puzzle Input File -->
-[PUZZLE_1]:  Day%201/
+[PUZZLE_1]:  Day%201/Historian_Hysteria.py
 [PUZZLE_2]:  Day%202/
 [PUZZLE_3]:  Day%203/
 [PUZZLE_4]:  Day%204/
