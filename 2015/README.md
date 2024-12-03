@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 12/25          | 24/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
+| 13/25          | 26/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
 
 | Day                                                     | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -21,7 +21,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 | [Day 10 - Elves Look, Elves Say][DAY_10]                | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
 | [Day 11 - Corporate Policy][DAY_11]                     | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
 | [Day 12 - JSAbacusFramework.io][DAY_12]                 | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
-| [Day 13 - Knights of the Dinner Table][DAY_13]          | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |    |    |   |
+| [Day 13 - Knights of the Dinner Table][DAY_13]          | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] | :star:   | :star:   | :star::star:  |
 | [Day 14 - Reindeer Olympics][DAY_14]                    | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |
 | [Day 15 - Science for Hungry People][DAY_15]            | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |    |    |   |
 | [Day 16 - Aunt Sue][DAY_16]                             | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |    |    |   |
