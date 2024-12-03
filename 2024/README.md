@@ -5,13 +5,13 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 02/25          | 04/50           | :star::star::star::star: |
+| 03/25          | 06/50           | :star::star::star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
 | [Day 1 - Historian Hysteria][DAY_1]               | [Puzzle Input][PUZZLE_1]  | [Solution][SOLUTION_1]  | :star:   | :star:   | :star::star:  |
 | [Day 2 - Red-Nosed Reports][DAY_2]                | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  | :star:   | :star:   | :star::star:  |
-| [Day 3 - ][DAY_3]                                 | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  |    |    |   |
+| [Day 3 - Mull It Over][DAY_3]                     | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  | :star:   | :star:   | :star::star:  |
 | [Day 4 - ][DAY_4]                                 | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  |    |    |   |
 | [Day 5 - ][DAY_5]                                 | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |    |    |   |
 | [Day 6 - ][DAY_6]                                 | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |    |    |   |
@@ -65,7 +65,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 <!-- Link to the local Solution File -->
 [SOLUTION_1]:  Day%201/Day%201%20-%20Historian%20Hysteria.py
 [SOLUTION_2]:  Day%202/Day%202%20-%20Red-Nosed%20Reports.py
-[SOLUTION_3]:  Day%203/Day%203%20-%20
+[SOLUTION_3]:  Day%203/Day%203%20-%20Mull%20It%20Over.py
 [SOLUTION_4]:  Day%204/Day%204%20-%20
 [SOLUTION_5]:  Day%205/Day%205%20-%20
 [SOLUTION_6]:  Day%206/Day%206%20-%20
@@ -92,7 +92,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 <!-- Link to the local Puzzle Input File -->
 [PUZZLE_1]:  Day%201/Historian_Hysteria.py
 [PUZZLE_2]:  Day%202/Red_Nosed_Reports.py
-[PUZZLE_3]:  Day%203/
+[PUZZLE_3]:  Day%203/Mull_It_Over.py
 [PUZZLE_4]:  Day%204/
 [PUZZLE_5]:  Day%205/
 [PUZZLE_6]:  Day%206/
