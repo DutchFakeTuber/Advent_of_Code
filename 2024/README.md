@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 06/25          | 12/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
+| 07/25          | 14/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -15,7 +15,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 4 - Ceres Search][DAY_4]                     | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
 | [Day 5 - Print Queue][DAY_5]                      | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6 - Guard Gallivant][DAY_6]                  | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
-| [Day 7 - ][DAY_7]                                 | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
+| [Day 7 - Bridge Repair][DAY_7]                    | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
 | [Day 8 - ][DAY_8]                                 | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
 | [Day 9 - ][DAY_9]                                 | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
 | [Day 10 - ][DAY_10]                               | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |    |    |   |
@@ -69,7 +69,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 [SOLUTION_4]:  Day%204/Day%204%20-%20Ceres%20Search.py
 [SOLUTION_5]:  Day%205/Day%205%20-%20Print%20Queue.py
 [SOLUTION_6]:  Day%206/Day%206%20-%20Guard%20Gallivant.py
-[SOLUTION_7]:  Day%207/Day%207%20-%20
+[SOLUTION_7]:  Day%207/Day%207%20-%20Bridge%20Repair.py
 [SOLUTION_8]:  Day%208/Day%208%20-%20
 [SOLUTION_9]:  Day%209/Day%209%20-%20
 [SOLUTION_10]: Day%2010/Day%2010%20-%20
@@ -96,7 +96,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 [PUZZLE_4]:  Day%204/Ceres_Search.py
 [PUZZLE_5]:  Day%205/Print_Queue.py
 [PUZZLE_6]:  Day%206/Guard_Gallivant.py
-[PUZZLE_7]:  Day%207/
+[PUZZLE_7]:  Day%207/Bridge_Repair.py
 [PUZZLE_8]:  Day%208/
 [PUZZLE_9]:  Day%209/
 [PUZZLE_10]: Day%2010
