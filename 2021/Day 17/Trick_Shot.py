@@ -1,1 +1,0 @@
-DATA: str = "target area: x=81..129, y=-150..-108"
