@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 04/25          | 08/50           | :star::star::star::star::star::star::star::star: |
+| 06/25          | 12/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -13,8 +13,8 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 2 - Red-Nosed Reports][DAY_2]                | [Puzzle Input][PUZZLE_2]  | [Solution][SOLUTION_2]  | :star:   | :star:   | :star::star:  |
 | [Day 3 - Mull It Over][DAY_3]                     | [Puzzle Input][PUZZLE_3]  | [Solution][SOLUTION_3]  | :star:   | :star:   | :star::star:  |
 | [Day 4 - Ceres Search][DAY_4]                     | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
-| [Day 5 - ][DAY_5]                                 | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  |    |    |   |
-| [Day 6 - ][DAY_6]                                 | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  |    |    |   |
+| [Day 5 - Print Queue][DAY_5]                      | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
+| [Day 6 - Guard Gallivant][DAY_6]                  | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
 | [Day 7 - ][DAY_7]                                 | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  |    |    |   |
 | [Day 8 - ][DAY_8]                                 | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
 | [Day 9 - ][DAY_9]                                 | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
@@ -67,8 +67,8 @@ This is my input regarding the Advent of Code 2024 challenge.
 [SOLUTION_2]:  Day%202/Day%202%20-%20Red-Nosed%20Reports.py
 [SOLUTION_3]:  Day%203/Day%203%20-%20Mull%20It%20Over.py
 [SOLUTION_4]:  Day%204/Day%204%20-%20Ceres%20Search.py
-[SOLUTION_5]:  Day%205/Day%205%20-%20
-[SOLUTION_6]:  Day%206/Day%206%20-%20
+[SOLUTION_5]:  Day%205/Day%205%20-%20Print%20Queue.py
+[SOLUTION_6]:  Day%206/Day%206%20-%20Guard%20Gallivant.py
 [SOLUTION_7]:  Day%207/Day%207%20-%20
 [SOLUTION_8]:  Day%208/Day%208%20-%20
 [SOLUTION_9]:  Day%209/Day%209%20-%20
@@ -94,8 +94,8 @@ This is my input regarding the Advent of Code 2024 challenge.
 [PUZZLE_2]:  Day%202/Red_Nosed_Reports.py
 [PUZZLE_3]:  Day%203/Mull_It_Over.py
 [PUZZLE_4]:  Day%204/Ceres_Search.py
-[PUZZLE_5]:  Day%205/
-[PUZZLE_6]:  Day%206/
+[PUZZLE_5]:  Day%205/Print_Queue.py
+[PUZZLE_6]:  Day%206/Guard_Gallivant.py
 [PUZZLE_7]:  Day%207/
 [PUZZLE_8]:  Day%208/
 [PUZZLE_9]:  Day%209/
