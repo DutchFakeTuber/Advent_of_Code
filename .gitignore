@@ -1,5 +1,5 @@
 # Advent of Code Input blocker
-/20*/*.txt
+/20*/Day */*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,5 +1,6 @@
-TEST: str = open("test.txt")
-DATA: str = open("input.txt")
+import os
+TEST: str = open(f"{os.path.dirname(os.path.realpath(__file__))}\\test.txt").read()
+DATA: str = open(f"{os.path.dirname(os.path.realpath(__file__))}\\input.txt").read()
 
 def fetchData(data: str) -> list[int]:
     return [int(line) for line in data.splitlines() if len(line)]
