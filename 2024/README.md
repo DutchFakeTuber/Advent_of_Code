@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 08/25          | 16/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 09/25          | 18/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -17,7 +17,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 6 - Guard Gallivant][DAY_6]                  | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
 | [Day 7 - Bridge Repair][DAY_7]                    | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
 | [Day 8 - Resonant Collinearity][DAY_8]            | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
-| [Day 9 - ][DAY_9]                                 | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
+| [Day 9 - Disk Fragmenter][DAY_9]                  | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
 | [Day 10 - ][DAY_10]                               | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |    |    |   |
 | [Day 11 - ][DAY_11]                               | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |    |    |   |
 | [Day 12 - ][DAY_12]                               | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |    |    |   |
