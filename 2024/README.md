@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 10/25          | 20/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br> |
+| 11/25          | 22/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -19,7 +19,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 8 - Resonant Collinearity][DAY_8]            | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
 | [Day 9 - Disk Fragmenter][DAY_9]                  | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
 | [Day 10 - Hoof It][DAY_10]                        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
-| [Day 11 - ][DAY_11]                               | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |    |    |   |
+| [Day 11 - Plutonian Pebbles][DAY_11]              | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
 | [Day 12 - ][DAY_12]                               | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |    |    |   |
 | [Day 13 - ][DAY_13]                               | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] |    |    |   |
 | [Day 14 - ][DAY_14]                               | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |
