@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 18/25          | 36/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 20/25          | 40/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br> |
 
 | Day                                                     | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -27,8 +27,8 @@ This is my input regarding the Advent of Code 2015 challenge.
 | [Day 16 - Aunt Sue][DAY_16]                             | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] | :star:   | :star:   | :star::star:  |
 | [Day 17 - No Such Thing as Too Much][DAY_17]            | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] | :star:   | :star:   | :star::star:  |
 | [Day 18 - Like a GIF For Your Yard][DAY_18]             | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] | :star:   | :star:   | :star::star:  |
-| [Day 19 - Medicine for Rudolph][DAY_19]                 | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |    |    |   |
-| [Day 20 - Infinite Elves and Infinite Houses][DAY_20]   | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |    |    |   |
+| [Day 19 - Medicine for Rudolph][DAY_19]                 | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] | :star:   | :star:   | :star::star:  |
+| [Day 20 - Infinite Elves and Infinite Houses][DAY_20]   | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
 | [Day 21 - RPG Simulator 20XX][DAY_21]                   | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |    |    |   |
 | [Day 22 - Wizard Simulator 20XX][DAY_22]                | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
 | [Day 23 - Opening the Turing Lock][DAY_23]              | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
