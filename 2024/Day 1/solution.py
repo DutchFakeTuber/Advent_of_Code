@@ -1,5 +1,8 @@
+from os.path import dirname, realpath
 from collections import Counter
-from Historian_Hysteria import TEST, DATA
+
+TEST: str = open(f"{dirname(realpath(__file__))}\\test.txt").read()
+DATA: str = open(f"{dirname(realpath(__file__))}\\input.txt").read()
 
 def fetchData(data: str) -> list[list[int, int]]:
     return [list(map(int, line.split('   '))) for line in data.splitlines() if len(line)]

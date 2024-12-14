@@ -1,4 +1,7 @@
-from Red_Nosed_Reports import TEST, DATA
+from os.path import dirname, realpath
+
+TEST: str = open(f"{dirname(realpath(__file__))}\\test.txt").read()
+DATA: str = open(f"{dirname(realpath(__file__))}\\input.txt").read()
 
 def getData(data: str) -> list[list[str]]:
     return [list(map(int, line.split())) for line in data.splitlines() if len(line)]

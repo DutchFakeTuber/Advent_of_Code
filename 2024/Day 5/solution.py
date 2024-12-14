@@ -1,7 +1,7 @@
-from time import perf_counter
+from os.path import dirname, realpath
 
-TEST: str = open("test.txt")
-DATA: str = open("input.txt")
+TEST: str = open(f"{dirname(realpath(__file__))}\\test.txt").read()
+DATA: str = open(f"{dirname(realpath(__file__))}\\input.txt").read()
 
 def fetchData(data: str) -> list[list[list[int]], list[list[int]]]:
     return [[list(map(int, _d.split(char))) for _d in d.splitlines() if len(_d)] for d, char in zip(data.split('\n\n'), ['|', ','])]
@@ -54,6 +54,5 @@ def partTwo(order: list[list[int]], pages: list[list[int]]) -> int:
 
 if __name__ == "__main__":
     order, pages = fetchData(DATA)
-    start = perf_counter()
     print(partOne(order, pages))
     print(partTwo(order, pages))

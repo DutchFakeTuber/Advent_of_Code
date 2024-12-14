@@ -1,8 +1,9 @@
+from os.path import dirname, realpath
 from math import log10
 from dataclasses import dataclass, field
 
-TEST: str = open("test.txt")
-DATA: str = open("input.txt")
+TEST: str = open(f"{dirname(realpath(__file__))}\\test.txt").read()
+DATA: str = open(f"{dirname(realpath(__file__))}\\input.txt").read()
 
 def fetchData(data: str) -> dict[int, list[int]]:
     return {int(line.split(': ')[0]): list(map(int, line.split(': ')[1].split(' '))) for line in data.splitlines() if len(line)}

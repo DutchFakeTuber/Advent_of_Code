@@ -1,5 +1,7 @@
-TEST: str = open("test.txt")
-DATA: str = open("input.txt")
+from os.path import dirname, realpath
+
+TEST: str = open(f"{dirname(realpath(__file__))}\\test.txt").read()
+DATA: str = open(f"{dirname(realpath(__file__))}\\input.txt").read()
 
 def mul(a: int, b: int) -> int:
     return a * b

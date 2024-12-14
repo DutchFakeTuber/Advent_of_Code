@@ -1,7 +1,8 @@
+from os.path import dirname, realpath
 from itertools import product, chain
 
-TEST: str = open("test.txt")
-DATA: str = open("input.txt")
+TEST: str = open(f"{dirname(realpath(__file__))}\\test.txt").read()
+DATA: str = open(f"{dirname(realpath(__file__))}\\input.txt").read()
 
 def fetchData(data: str) -> list[str]:
     return [line for line in data.splitlines() if len(line)]
