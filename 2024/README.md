@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 13/25          | 26/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
+| 14/25          | 28/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -22,7 +22,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 11 - Plutonian Pebbles][DAY_11]              | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
 | [Day 12 - Garden Groups][DAY_12]                  | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
 | [Day 13 - Claw Contraption][DAY_13]               | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] | :star:   | :star:   | :star::star:  |
-| [Day 14 - ][DAY_14]                               | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] |    |    |   |
+| [Day 14 - Restroom Redoubt][DAY_14]               | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] | :star:   | :star:   | :star::star:  |
 | [Day 15 - ][DAY_15]                               | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |    |    |   |
 | [Day 16 - ][DAY_16]                               | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |    |    |   |
 | [Day 17 - ][DAY_17]                               | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
