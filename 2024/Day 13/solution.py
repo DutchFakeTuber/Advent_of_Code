@@ -1,5 +1,4 @@
 from os.path import dirname, realpath
-from math import gcd
 from collections import namedtuple
 import re
 
@@ -9,19 +8,15 @@ DATA: str = open(f"{dirname(realpath(__file__))}\\input.txt").read()
 def fetchData(data: str) -> list[list[int]]:
     return [list(map(int, re.findall(r'\b\d+\b', line))) for line in data.split('\n\n') if len(line)]
 
-def partOne(data: list[list[int]]) -> int:
-    Button = namedtuple('Button', ['ax', 'ay', 'bx', 'by', 'px', 'py'])
-    calcA: function = lambda b: (b.px*b.by-b.bx*b.py)/(b.ax*b.by-b.bx*b.ay)
-    calcB: function = lambda b: (b.ax*b.py-b.px*b.ay)/(b.ax*b.by-b.bx*b.ay)
-    return int(sum([3*calcA(b)+calcB(b) for b in [Button(*d) for d in data] if calcA(b).is_integer() and calcB(b).is_integer()]))
+def CramersRule(b: tuple[int]) -> int:
+    A, B = (b.px*b.by-b.bx*b.py)/(b.ax*b.by-b.bx*b.ay), (b.ax*b.py-b.px*b.ay)/(b.ax*b.by-b.bx*b.ay)
+    return 3*A+B if A.is_integer() and B.is_integer() else 0
 
-def partTwo(data: list[list[int]]) -> int:
+def parts(data: list[list[int]], long: bool=False) -> int:
     Button = namedtuple('Button', ['ax', 'ay', 'bx', 'by', 'px', 'py'])
-    calcA: function = lambda b: (b.px*b.by-b.bx*b.py)/(b.ax*b.by-b.bx*b.ay)
-    calcB: function = lambda b: (b.ax*b.py-b.px*b.ay)/(b.ax*b.by-b.bx*b.ay)
-    return int(sum([3*calcA(b)+calcB(b) for b in [Button(*d[:4], 1e13+d[4], 1e13+d[5]) for d in data] if calcA(b).is_integer() and calcB(b).is_integer()]))
+    return int(sum(CramersRule(Button(*d[:4], 1e13+d[4], 1e13+d[5]) if long else Button(*d)) for d in data))
 
 if __name__ == "__main__":
     data: list[list[int]] = fetchData(DATA)
-    print(partOne(data))
-    print(partTwo(data))
+    print(parts(data))
+    print(parts(data, long=True))
