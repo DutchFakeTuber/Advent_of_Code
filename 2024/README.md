@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 14/25          | 28/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
+| 15/25          | 30/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br> |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -23,7 +23,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 12 - Garden Groups][DAY_12]                  | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
 | [Day 13 - Claw Contraption][DAY_13]               | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] | :star:   | :star:   | :star::star:  |
 | [Day 14 - Restroom Redoubt][DAY_14]               | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] | :star:   | :star:   | :star::star:  |
-| [Day 15 - ][DAY_15]                               | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] |    |    |   |
+| [Day 15 - Warehouse Woes][DAY_15]                 | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] | :star:   | :star:   | :star::star:  |
 | [Day 16 - ][DAY_16]                               | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |    |    |   |
 | [Day 17 - ][DAY_17]                               | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
 | [Day 18 - ][DAY_18]                               | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |    |    |   |
