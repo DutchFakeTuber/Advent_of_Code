@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 15/25          | 30/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br> |
+| 19/25          | 38/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -24,10 +24,10 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 13 - Claw Contraption][DAY_13]               | [Puzzle Input][PUZZLE_13] | [Solution][SOLUTION_13] | :star:   | :star:   | :star::star:  |
 | [Day 14 - Restroom Redoubt][DAY_14]               | [Puzzle Input][PUZZLE_14] | [Solution][SOLUTION_14] | :star:   | :star:   | :star::star:  |
 | [Day 15 - Warehouse Woes][DAY_15]                 | [Puzzle Input][PUZZLE_15] | [Solution][SOLUTION_15] | :star:   | :star:   | :star::star:  |
-| [Day 16 - ][DAY_16]                               | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] |    |    |   |
-| [Day 17 - ][DAY_17]                               | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] |    |    |   |
-| [Day 18 - ][DAY_18]                               | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] |    |    |   |
-| [Day 19 - ][DAY_19]                               | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] |    |    |   |
+| [Day 16 - Reindeer Maze][DAY_16]                  | [Puzzle Input][PUZZLE_16] | [Solution][SOLUTION_16] | :star:   | :star:   | :star::star:  |
+| [Day 17 - Chronospatial Computer][DAY_17]         | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] | :star:   | :star:   | :star::star:  |
+| [Day 18 - RAM Run][DAY_18]                        | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] | :star:   | :star:   | :star::star:  |
+| [Day 19 - Linen Layout][DAY_19]                   | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] | :star:   | :star:   | :star::star:  |
 | [Day 20 - ][DAY_20]                               | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |    |    |   |
 | [Day 21 - ][DAY_21]                               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |    |    |   |
 | [Day 22 - ][DAY_22]                               | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
