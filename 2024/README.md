@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 20/25          | 40/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
+| 22/25          | 44/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -29,8 +29,8 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 18 - RAM Run][DAY_18]                        | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] | :star:   | :star:   | :star::star:  |
 | [Day 19 - Linen Layout][DAY_19]                   | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] | :star:   | :star:   | :star::star:  |
 | [Day 20 - Race Condition][DAY_20]                 | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
-| [Day 21 - Keypad Conundrum][DAY_21]                               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
-| [Day 22 - ][DAY_22]                               | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
+| [Day 21 - Keypad Conundrum][DAY_21]               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
+| [Day 22 - Monkey Market][DAY_22]                  | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] | :star:   | :star:   | :star::star:  |
 | [Day 23 - ][DAY_23]                               | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
 | [Day 24 - ][DAY_24]                               | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
 | [Day 25 - ][DAY_25]                               | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] |    |    |   |
