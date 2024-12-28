@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 19/25          | 38/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star: |
+| 20/25          | 40/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -28,8 +28,8 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 17 - Chronospatial Computer][DAY_17]         | [Puzzle Input][PUZZLE_17] | [Solution][SOLUTION_17] | :star:   | :star:   | :star::star:  |
 | [Day 18 - RAM Run][DAY_18]                        | [Puzzle Input][PUZZLE_18] | [Solution][SOLUTION_18] | :star:   | :star:   | :star::star:  |
 | [Day 19 - Linen Layout][DAY_19]                   | [Puzzle Input][PUZZLE_19] | [Solution][SOLUTION_19] | :star:   | :star:   | :star::star:  |
-| [Day 20 - ][DAY_20]                               | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] |    |    |   |
-| [Day 21 - ][DAY_21]                               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] |    |    |   |
+| [Day 20 - Race Condition][DAY_20]                 | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
+| [Day 21 - Keypad Conundrum][DAY_21]                               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
 | [Day 22 - ][DAY_22]                               | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] |    |    |   |
 | [Day 23 - ][DAY_23]                               | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
 | [Day 24 - ][DAY_24]                               | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
