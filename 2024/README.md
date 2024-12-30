@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2024 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 22/25          | 44/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
+| 25/25          | 50/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -31,9 +31,9 @@ This is my input regarding the Advent of Code 2024 challenge.
 | [Day 20 - Race Condition][DAY_20]                 | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
 | [Day 21 - Keypad Conundrum][DAY_21]               | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
 | [Day 22 - Monkey Market][DAY_22]                  | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] | :star:   | :star:   | :star::star:  |
-| [Day 23 - ][DAY_23]                               | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
-| [Day 24 - ][DAY_24]                               | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
-| [Day 25 - ][DAY_25]                               | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] |    |    |   |
+| [Day 23 - LAN Party][DAY_23]                      | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] | :star:   | :star:   | :star::star:  |
+| [Day 24 - Crossed Wires][DAY_24]                  | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] | :star:   | :star:   | :star::star:  |
+| [Day 25 - Code Chronicle][DAY_25]                 | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] | :star:   | :star:   | :star::star:  |
 
 <!-- Link to the days in Advent of Code -->
 [DAY_1]:  https://adventofcode.com/2024/day/1
