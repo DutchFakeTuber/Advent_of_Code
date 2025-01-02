@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 22/25          | 44/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
+| 23/25          | 46/50           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star: |
 
 | Day                                                     | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -31,7 +31,7 @@ This is my input regarding the Advent of Code 2015 challenge.
 | [Day 20 - Infinite Elves and Infinite Houses][DAY_20]   | [Puzzle Input][PUZZLE_20] | [Solution][SOLUTION_20] | :star:   | :star:   | :star::star:  |
 | [Day 21 - RPG Simulator 20XX][DAY_21]                   | [Puzzle Input][PUZZLE_21] | [Solution][SOLUTION_21] | :star:   | :star:   | :star::star:  |
 | [Day 22 - Wizard Simulator 20XX][DAY_22]                | [Puzzle Input][PUZZLE_22] | [Solution][SOLUTION_22] | :star:   | :star:   | :star::star:  |
-| [Day 23 - Opening the Turing Lock][DAY_23]              | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] |    |    |   |
+| [Day 23 - Opening the Turing Lock][DAY_23]              | [Puzzle Input][PUZZLE_23] | [Solution][SOLUTION_23] | :star:   | :star:   | :star::star:  |
 | [Day 24 - It Hangs in the Balance][DAY_24]              | [Puzzle Input][PUZZLE_24] | [Solution][SOLUTION_24] |    |    |   |
 | [Day 25 - Let It Snow][DAY_25]                          | [Puzzle Input][PUZZLE_25] | [Solution][SOLUTION_25] |    |    |   |
 
