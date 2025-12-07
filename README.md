@@ -3,6 +3,7 @@ Advent of Code spanning over multiple years. First started with the 2021 advent 
 
 | Year                   | Days Completed | Tasks Completed | Stars Collected |
 | :--------------------: | :------------: | :-------------: | :-------------: |
+| [2025](2025/README.md) | 06/12          | 12/24           | :star:x12       |
 | [2024](2024/README.md) | 25/25          | 50/50           | :star:x50       |
 | [2023](2023/README.md) | 25/25          | 50/50           | :star:x50       |
 | [2022](2022/README.md) | 25/25          | 50/50           | :star:x50       |
