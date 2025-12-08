@@ -1,11 +1,11 @@
-# Advent of Code 202x
-This is my input regarding the Advent of Code 202x challenge.
+# Advent of Code 2025
+This is my input regarding the Advent of Code 2025 challenge.
 
 <!-- Mark done as :star: -->
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 07/12          | 13/24           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star: |
+| 07/12          | 14/24           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -15,8 +15,8 @@ This is my input regarding the Advent of Code 202x challenge.
 | [Day 4 - Printing Department][DAY_4]              | [Puzzle Input][PUZZLE_4]  | [Solution][SOLUTION_4]  | :star:   | :star:   | :star::star:  |
 | [Day 5 - Cafeteria][DAY_5]                        | [Puzzle Input][PUZZLE_5]  | [Solution][SOLUTION_5]  | :star:   | :star:   | :star::star:  |
 | [Day 6 - Trash Compactor][DAY_6]                  | [Puzzle Input][PUZZLE_6]  | [Solution][SOLUTION_6]  | :star:   | :star:   | :star::star:  |
-| [Day 7 - Laboratories][DAY_7]                     | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   |    | :star:  |
-| [Day 8 - ][DAY_8]                                 | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
+| [Day 7 - Laboratories][DAY_7]                     | [Puzzle Input][PUZZLE_7]  | [Solution][SOLUTION_7]  | :star:   | :star:   | :star::star:  |
+| [Day 8 - Playground][DAY_8]                       | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  |    |    |   |
 | [Day 9 - ][DAY_9]                                 | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  |    |    |   |
 | [Day 10 - ][DAY_10]                               | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] |    |    |   |
 | [Day 11 - ][DAY_11]                               | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |    |    |   |
