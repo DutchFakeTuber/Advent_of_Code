@@ -5,7 +5,7 @@ This is my input regarding the Advent of Code 2025 challenge.
 
 | Days Completed | Parts Completed | Stars Accumulated |
 | :------------: | :-------------: | :---------------: |
-| 10/12          | 20/24           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br> |
+| 12/12          | 24/24           | :star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star::star::star::star::star::star::star:<br>:star::star::star::star: |
 
 | Day                                               | Puzzle Input File         | Solution File           | Part One | Part Two | Total Stars   |
 | ------------------------------------------------- | :------------------------ | :---------------------- | :------: | :------: | :-----------: |
@@ -19,8 +19,8 @@ This is my input regarding the Advent of Code 2025 challenge.
 | [Day 8 - Playground][DAY_8]                       | [Puzzle Input][PUZZLE_8]  | [Solution][SOLUTION_8]  | :star:   | :star:   | :star::star:  |
 | [Day 9 - Movie Theater][DAY_9]                    | [Puzzle Input][PUZZLE_9]  | [Solution][SOLUTION_9]  | :star:   | :star:   | :star::star:  |
 | [Day 10 - Factory][DAY_10]                        | [Puzzle Input][PUZZLE_10] | [Solution][SOLUTION_10] | :star:   | :star:   | :star::star:  |
-| [Day 11 - Reactor][DAY_11]                        | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] |    |    |   |
-| [Day 12 - Christmas Tree Farm][DAY_12]            | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] |    |    |   |
+| [Day 11 - Reactor][DAY_11]                        | [Puzzle Input][PUZZLE_11] | [Solution][SOLUTION_11] | :star:   | :star:   | :star::star:  |
+| [Day 12 - Christmas Tree Farm][DAY_12]            | [Puzzle Input][PUZZLE_12] | [Solution][SOLUTION_12] | :star:   | :star:   | :star::star:  |
 
 <!-- Link to the days in Advent of Code -->
 [DAY_1]:  https://adventofcode.com/2025/day/1
